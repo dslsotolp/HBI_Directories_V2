@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Large crawler outputs (not needed for website)
+backup/
+Backup_*/
+output_weight_*/
+linkedin_crawler/
+output/*.xlsx
+output/*.docx
+models/
+tests/
+
+# Sensitive / build artifacts
+.env
+*.log
+build.bat
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.ipynb_checkpoints/

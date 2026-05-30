@@ -1,0 +1,783 @@
+skill_id,profile_id,skill_name,endorsements,sort_order
+52636112-76ed-4ef0-b15d-6d29bce5ff2a,639a2e46-1f1b-4d39-bf3e-786c15609979,R (Programming Language),,0
+f9a137d5-f0de-47d6-93b5-6e62c880e6a0,639a2e46-1f1b-4d39-bf3e-786c15609979,Microsurgery,,1
+da7ac2b9-b8ac-4b23-bdfb-05a4ce8120f0,639a2e46-1f1b-4d39-bf3e-786c15609979,Chemogenetics,,2
+af973ba7-9d5c-4460-9b68-1a1232231744,639a2e46-1f1b-4d39-bf3e-786c15609979,Optogenetics,,3
+6e9ecf09-a8cd-4cce-a9a0-3a3c30f9dbd5,639a2e46-1f1b-4d39-bf3e-786c15609979,Mouse Models,,4
+65adb9c8-292e-4199-8c65-f5ac6a652b6d,639a2e46-1f1b-4d39-bf3e-786c15609979,Writing,,5
+bf1c741c-9d8e-4350-a3cd-0ffa84d83de0,639a2e46-1f1b-4d39-bf3e-786c15609979,Manuscript,,6
+3edbc2cc-76e4-4b93-9687-0862e0d94452,639a2e46-1f1b-4d39-bf3e-786c15609979,Editing,,7
+599e3d68-1ec8-405c-b96d-336ce4b65466,639a2e46-1f1b-4d39-bf3e-786c15609979,Computer Literacy,,8
+daf7d69c-7f84-420d-b4a5-bd2019d31c65,639a2e46-1f1b-4d39-bf3e-786c15609979,Academic Editing,,9
+31b7c716-2679-4f9d-887c-e958cae0dc91,efdbc8f3-283f-4d55-8d4a-cf4403e08152,Circadian Rhythms,,0
+b5e4791f-66c0-4550-aeab-8572a6aa3986,efdbc8f3-283f-4d55-8d4a-cf4403e08152,Student Trainee at University of Calgary,,1
+7e35b735-8ed7-4015-b8a9-8ccbcb5d9e89,dab82746-9cd9-450f-95b5-7798ea6d8adc,Homework Help,,0
+4dd08ac1-47dd-497a-aa64-6f44d72407ef,dab82746-9cd9-450f-95b5-7798ea6d8adc,One-on-one Instruction,,1
+f6026f90-a446-4801-9af9-afd4611d838b,dab82746-9cd9-450f-95b5-7798ea6d8adc,Individualized Instruction,,2
+7d482524-e502-4188-8add-fb555600adb2,dab82746-9cd9-450f-95b5-7798ea6d8adc,Autism Spectrum Disorders,,3
+674aae98-bf54-47b5-8ad6-fd93fc078b35,dab82746-9cd9-450f-95b5-7798ea6d8adc,Public Outreach,,4
+2748bf70-c4fd-4a72-b16e-e10da31f97f7,dab82746-9cd9-450f-95b5-7798ea6d8adc,Corporate Outreach,,5
+c8a218c5-e038-4a37-9727-7588a93e0068,dab82746-9cd9-450f-95b5-7798ea6d8adc,Community Outreach,,6
+252ca8a1-7781-4f0b-a93c-3a3326a5db41,dab82746-9cd9-450f-95b5-7798ea6d8adc,Social Outreach,,7
+958b16f2-a63b-449e-9551-f247f1c034b9,dab82746-9cd9-450f-95b5-7798ea6d8adc,Online Content Creation,,8
+4c6bb772-f4a3-44d7-9245-6633b3fc9fee,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Indigenous Education,,0
+58b39739-13f1-4b2e-8198-4d9cc4820c24,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Mental Health,,1
+1d07f0f5-cb13-43d4-a0be-9023407c1f92,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Digital Learning,,2
+17ecfcde-aecd-4485-bc53-6961f2e60264,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Traditional Knowledge,,3
+cc79a165-8912-46d7-87b9-db1cddb36b63,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Neurology,,4
+93d21ba7-b5c4-42b3-aaff-8ca95bb70b7c,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Public Health,,5
+c9174612-691d-4a0d-8a2c-e4dded6c431d,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Climate Change Science,,6
+a5ee8ae9-b020-4cd2-b14d-73c147418b14,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Climate Change Impacts,,7
+7921088d-820f-44f2-97a5-2ec4f6428661,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Climate Change Risk Analysis,,8
+4341b731-787b-48a1-a5ce-37e07c1447eb,0c2aa172-9ee3-4815-a8e8-940f4c2e9e09,Health Equity,,9
+7af83c87-3c4f-48d0-9fd9-f41072c57c41,f67d4ef6-7478-48a3-b662-e95c80bb7185,Program Management,,0
+c54a4a82-b38a-4004-8a50-9e5e4e743b0e,f67d4ef6-7478-48a3-b662-e95c80bb7185,Stakeholder Management,,1
+67cd97b4-5b5b-4ccb-b53d-73f33cdf77d8,f67d4ef6-7478-48a3-b662-e95c80bb7185,Atlassian Suite,,2
+b9ad941f-2212-44e7-99a4-e17bea71f258,f67d4ef6-7478-48a3-b662-e95c80bb7185,Leadership,,3
+dcea589a-15c5-4ff9-a753-5cc2b21718b8,f67d4ef6-7478-48a3-b662-e95c80bb7185,Problem Solving,,4
+6cdaa205-6d72-4672-8926-858d06546123,f67d4ef6-7478-48a3-b662-e95c80bb7185,Managing Meetings,,5
+4938e9e8-cb85-4988-87f5-3a4002e2a425,f67d4ef6-7478-48a3-b662-e95c80bb7185,Critical Thinking,,6
+9d73c2cd-db45-4e42-9a40-868dfb81528d,f67d4ef6-7478-48a3-b662-e95c80bb7185,Project Management,,7
+cbcf9ce6-b019-4049-8074-61745a90c53f,f67d4ef6-7478-48a3-b662-e95c80bb7185,Communication,,8
+3afdc157-c5fb-4065-bfa9-40fc2f709d5b,d2be4191-c62c-489d-9963-e8fdc0fb71bd,Cell Biology,,0
+e69bab86-d7ad-4079-9dce-c90e3ee49903,d2be4191-c62c-489d-9963-e8fdc0fb71bd,Brain Slice Electrophysiology,,1
+d8ab0d6e-732d-4618-8ddb-79eb5ddf1527,d2be4191-c62c-489d-9963-e8fdc0fb71bd,Pharmacology,,2
+26101419-96d3-4b50-89b4-29c74a38b160,d2be4191-c62c-489d-9963-e8fdc0fb71bd,Two-photon Microscopy,,3
+7c4f6131-459f-4a50-af1e-882c894e6a1e,d2be4191-c62c-489d-9963-e8fdc0fb71bd,Acute Brain Slices,,4
+b0bb1cf3-2ef0-4cb4-8862-2dd3237327be,d2be4191-c62c-489d-9963-e8fdc0fb71bd,Live Cell Imaging,,5
+c41a5e0c-3a3d-4af3-a769-f72c39c735ef,d2be4191-c62c-489d-9963-e8fdc0fb71bd,RNAseq Analysis,,6
+5d5a72a1-7562-4184-bdff-a7f4866f52a8,d2be4191-c62c-489d-9963-e8fdc0fb71bd,Laboratory Skills,,7
+9b654d00-d796-4e14-a410-e2e642f3a081,d2be4191-c62c-489d-9963-e8fdc0fb71bd,Single-Cell Analysis,,8
+5a428b3e-160a-4b76-a156-b14e2143cab6,d2be4191-c62c-489d-9963-e8fdc0fb71bd,Bioinformatics,,9
+16e14360-0428-4f68-93f4-9333707a6705,13797022-096e-490a-831c-1b09206cf6f5,Event Management,,0
+a52afe69-65e5-49f6-a076-a10590b8e883,13797022-096e-490a-831c-1b09206cf6f5,Budgeting,,1
+80f01a6a-72b9-45e3-aa0d-6252ee3d3bbb,13797022-096e-490a-831c-1b09206cf6f5,Budget Management,,2
+e301587f-7688-4139-8e1f-6447642c3629,13797022-096e-490a-831c-1b09206cf6f5,Grant Writing,,3
+79984c64-91b9-4a28-9527-20992bf9c408,13797022-096e-490a-831c-1b09206cf6f5,Fundraising,,4
+219cb50d-d7d3-4733-b9d8-29f3f2c54751,13797022-096e-490a-831c-1b09206cf6f5,Teamwork,,5
+b0a7f72a-1931-4f88-9dc0-a289280a67cd,13797022-096e-490a-831c-1b09206cf6f5,Leadership Development,,6
+e0c0aa91-3a28-4a65-91ed-aa489535b32c,13797022-096e-490a-831c-1b09206cf6f5,Educational Leadership,,7
+8d13e1b9-62e0-4aa9-b788-4ed6ed674f10,13797022-096e-490a-831c-1b09206cf6f5,Clinical Research,,8
+0da4be43-8d6c-4415-b817-f0970587983a,13797022-096e-490a-831c-1b09206cf6f5,Medical Genetics,,9
+e4c872f3-2708-4c6f-989f-a39f3fcfbda2,afede334-d3bd-4233-860a-c2ebeed96bef,Project Oversight,,0
+6394e68d-3502-4ce7-8f79-cbf652ac724e,afede334-d3bd-4233-860a-c2ebeed96bef,Leadership Development,,1
+96fc5e5f-d902-4362-913f-78eee7b1e992,afede334-d3bd-4233-860a-c2ebeed96bef,Medical Research,,2
+4f35cb72-206b-4204-830d-c753dd89e650,afede334-d3bd-4233-860a-c2ebeed96bef,Patient Education,,3
+acc7cc53-056e-4711-ba84-ce10d903bf21,afede334-d3bd-4233-860a-c2ebeed96bef,Clinical Trials,,4
+3e52074e-9cee-4c1d-a22e-6134949d8400,afede334-d3bd-4233-860a-c2ebeed96bef,Leadership,,5
+0d79d480-cf0e-41a3-aef4-50044ca85c73,afede334-d3bd-4233-860a-c2ebeed96bef,Research,,6
+e7812479-ba09-4b5a-bec5-daa79c80e8ee,afede334-d3bd-4233-860a-c2ebeed96bef,First Aid,,7
+588be8b0-9bfe-4d14-9c7e-8c4b15c1bc43,afede334-d3bd-4233-860a-c2ebeed96bef,Swim Instruction,,8
+28347500-f6f0-4c2a-b1fe-dddbaa49a36b,afede334-d3bd-4233-860a-c2ebeed96bef,Lifeguarding,,9
+57bc903f-9243-424d-81eb-9d4f8d8ca701,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Creativity and Innovation,,0
+c2414e64-f7f8-4051-b9e1-000a5a40de01,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Problem Solving,,1
+ef10c751-b180-4717-a689-f0958af6632f,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Entrepreneurial Thinking,,2
+b5d32faa-b292-4bbc-a353-abe6bba5c77e,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Research Design,,3
+dfc47737-8f8d-48e7-bade-bc0c5f384c25,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Online Content Creation,,4
+fbbe3613-6e78-4ff9-8bbc-7ee55844bee5,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Networking,,5
+564c8e8e-7749-4688-befc-6cf003365252,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Canva,,6
+39e65260-78ac-406f-8d8c-a15d182352b8,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Creative Writing,,7
+d0d013e4-cd78-485d-83e6-8ab8ceeaa195,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Leadership,,8
+02182d83-65b4-4cde-ad40-8e4bf08c0f2c,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Time Management,,9
+4cb384b4-dc16-4c0a-91d3-99cb14f5aef0,132edda5-7e0f-4faf-9db7-4dcf646f9565,Government Advocacy,,0
+d83ec2ab-8c07-4dc8-a743-667f4f10ded7,132edda5-7e0f-4faf-9db7-4dcf646f9565,Policy Analysis,,1
+b03a3247-126b-4780-87b0-a3b41a849abf,132edda5-7e0f-4faf-9db7-4dcf646f9565,Program Evaluation,,2
+74765649-df22-4d80-aab8-dc13fa1b73d1,132edda5-7e0f-4faf-9db7-4dcf646f9565,Program Development,,3
+112015c5-c9ba-4f2c-8cff-0c77dd458ec0,132edda5-7e0f-4faf-9db7-4dcf646f9565,Public Policy,,4
+545f603e-8636-4640-b218-c4e84a19b403,132edda5-7e0f-4faf-9db7-4dcf646f9565,Public Health,,5
+a0dc1a3f-9072-477c-bdf0-2178294bc8c5,132edda5-7e0f-4faf-9db7-4dcf646f9565,Strategic Planning,,6
+ef5271d6-0c96-4e7a-b5ee-93519aca22ac,132edda5-7e0f-4faf-9db7-4dcf646f9565,Program Management,,7
+ab8757d2-0dcd-4c95-beb2-26eeac2c057b,132edda5-7e0f-4faf-9db7-4dcf646f9565,Research,,8
+6137a1ef-14f1-48d7-8295-1537f48cd1b4,132edda5-7e0f-4faf-9db7-4dcf646f9565,Grant Writing,,9
+0c904756-6962-4d66-a100-1939a0226d3c,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Collaborative Work,,0
+86118d4e-3d9b-4e6a-a089-0b0785fa6887,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Organization Skills,,1
+9d63d5b0-a41a-41c4-b241-eb8e7c68b14e,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Time Management,,2
+2b81bc9f-cd1d-407b-88f0-ec900417b7a9,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Event Planning,,3
+62c36a67-cd32-4c7a-942f-0fb7ca803973,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Customer Satisfaction,,4
+2cc3a8d0-bd41-4afd-aee7-3b577b929b72,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Customer Support,,5
+5cd3c25a-4075-4a58-9bdb-7264ebcab693,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Team Leadership,,6
+5f15966e-e1a1-4d94-840c-8ddf1aa47a7a,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Team Motivation,,7
+6a227f87-7113-4ecc-9786-e099dcec0508,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Problem Solving,,8
+a39a5622-3942-4d31-a6b6-73cb97a17e27,3fa1944d-4ac9-43ec-bb6c-8661fb188dbd,Collaborative Problem Solving,,9
+0154b06a-ea7d-4dee-9c10-f9c9c0c96f87,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Project Management,,0
+32e3be2d-8234-484a-9148-2fbb14ae72d8,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Strategic Partnerships,,1
+6dfa8aae-cd3f-4ce7-ae53-34f10b020f2b,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Organizational Leadership,,2
+8d4f9e42-6d69-4d1e-a9be-b1d6fe1f049e,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Event Management,,3
+220340ad-03a2-48c6-a75e-4a5475324fd0,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Partnership Development,,4
+769cf984-7011-4bf7-aa50-589d2ba21075,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Community Engagement,,5
+8d46e0f5-e6e6-4aef-80f0-4b69445bdb90,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Stakeholder Relations,,6
+f8246793-2c42-4801-aaf2-7bc89f258fa9,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Event Coordination,,7
+c414911d-8955-403f-b518-ff1e0a15d01e,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Program Management,,8
+987f64a5-3e15-43d7-b12f-e8e14002787e,f9d35219-08ea-4a5d-81e8-95a859aabe3f,Clinical Skills,,9
+b3c01149-cf8f-46a8-ac33-b24da9e6dc0c,b09e11c3-3662-43d4-be74-d01aa75f830e,Emocodes,,0
+ba92f4a1-a1d6-4998-bc43-b0276e6f4dcd,b09e11c3-3662-43d4-be74-d01aa75f830e,MNE Python (for EEG processing and analysis),,1
+8074f061-48c8-4f81-84ef-ff164e87178b,b09e11c3-3662-43d4-be74-d01aa75f830e,Pandas (Software),,2
+2ae44a39-560a-4d71-b3bd-f41ea2cf5cf5,b09e11c3-3662-43d4-be74-d01aa75f830e,Python (Programming Language),,3
+4fb21317-b4ec-4a6a-84b2-d97ab2aa75f5,b09e11c3-3662-43d4-be74-d01aa75f830e,Clinical Research,,4
+a9c546d8-5515-4f22-b8c3-2a57b03086b1,b09e11c3-3662-43d4-be74-d01aa75f830e,R (Programming Language),,5
+c4cece0a-2fc3-4e88-80b7-7f799dbb863d,b09e11c3-3662-43d4-be74-d01aa75f830e,Data Entry,,6
+ac6e0ac3-f2f5-4f07-a05c-9fb8579ac55e,b09e11c3-3662-43d4-be74-d01aa75f830e,MRI,,7
+72d03753-972b-4abc-8af1-7609157f1350,b09e11c3-3662-43d4-be74-d01aa75f830e,EEG,,8
+2d8747ff-5f3e-4493-93b0-6d98fbef1e7e,b09e11c3-3662-43d4-be74-d01aa75f830e,Computer Science,,9
+e9f0cfe9-999f-4469-94bc-95748bcb81d6,63786a31-72e1-4fab-a6ce-cf85ad72db2f,Analytical Skills,,0
+b68b6b1e-858c-4a2e-ac2b-65472b5ed8d0,63786a31-72e1-4fab-a6ce-cf85ad72db2f,Research Collaboration,,1
+1000f4db-f048-4a0d-b9d2-be2c0123dca9,63786a31-72e1-4fab-a6ce-cf85ad72db2f,Research Skills,,2
+67bce78a-4559-4de5-8678-7ecf4a62d34f,63786a31-72e1-4fab-a6ce-cf85ad72db2f,Problem Solving,,3
+1c8c5757-e754-43a0-ba48-89aae5d7235e,63786a31-72e1-4fab-a6ce-cf85ad72db2f,Statistical Data Analysis,,4
+2f12d476-5fdc-4897-a095-9fd205b6ff3a,63786a31-72e1-4fab-a6ce-cf85ad72db2f,Scientific Experimentation,,5
+81e005f9-09d9-4c92-ab8c-c96f22de6342,63786a31-72e1-4fab-a6ce-cf85ad72db2f,Leadership,,6
+09f5cfc0-1745-4ce5-88f7-f358907a1082,63786a31-72e1-4fab-a6ce-cf85ad72db2f,Communication,,7
+eace8a83-4165-4aa4-ac77-3a562dd115ef,63786a31-72e1-4fab-a6ce-cf85ad72db2f,Tutoring,,8
+4799a9ee-edd1-45ec-b4ea-5155a100bcf8,63786a31-72e1-4fab-a6ce-cf85ad72db2f,TensorFlow,,9
+b6426128-d0ff-4101-961d-79c60199abfa,aabd2af1-3e36-47c2-9dd4-64ae2244aced,Academic Research,,0
+416bba97-6e25-4d76-8298-b3c892d9ca35,aabd2af1-3e36-47c2-9dd4-64ae2244aced,Medical Research,,1
+0d3ea3f4-820e-4b07-bc19-d41fdaf81cce,aabd2af1-3e36-47c2-9dd4-64ae2244aced,Data Analysis,,2
+cb5e7dbc-0acf-4ad6-b1de-b297cbb04f3d,aabd2af1-3e36-47c2-9dd4-64ae2244aced,Computational Neuroscience,,3
+2fbeb77a-9e12-478c-b1b8-72bcd2816865,aabd2af1-3e36-47c2-9dd4-64ae2244aced,Behavioral Neuroscience,,4
+dab92f84-42c5-4ca5-9524-68b12accaa77,aabd2af1-3e36-47c2-9dd4-64ae2244aced,Analytical Skills,,5
+ce0b7cc3-4531-42a9-858b-6edbec0dd41d,aabd2af1-3e36-47c2-9dd4-64ae2244aced,Presentation Skills,,6
+601f7f58-9f0d-4e73-814f-137e599e3157,aabd2af1-3e36-47c2-9dd4-64ae2244aced,English,,7
+394dac4c-2c11-43f1-841a-4390398b3c2c,aabd2af1-3e36-47c2-9dd4-64ae2244aced,Research Skills,,8
+de50b202-ee6b-40fd-9672-5ddef3ff4541,aabd2af1-3e36-47c2-9dd4-64ae2244aced,Communication,,9
+a0200c57-9509-437b-88e3-fe195e338167,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Western Blotting,,0
+1ba36129-8d0b-4eb9-af13-cb6a1bb80a64,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Dosing and Drug Administration,,1
+46397827-15b8-49f8-85cf-b7d1bc778d2f,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Mouse Handling,,2
+5a614a3e-7f16-4479-8935-2f3696005b07,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Scientific Research,,3
+a5502c4d-09cc-4234-b26c-4ef90c08c599,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Mathematics Education,,4
+2f94b733-78b8-490f-a5ea-cbc4a4456b33,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Curriculum Development,,5
+2f228e73-633d-4a56-a1ba-2efbf67e26c0,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Teaching,,6
+507483b0-84f4-4fdd-9952-7fa29df04ac6,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Mentoring,,7
+394d3bc6-7e05-4a3e-bcd1-f128abff7941,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Customer Service,,8
+9f872c28-8435-4699-871c-aee1d521faf9,61d6dada-0d7d-4b02-8c05-7dc3816c9a49,Administrative support,,9
+893cdad5-d3d8-441e-8940-e4a83c68dfe9,abb97cd8-36de-4c7d-ab17-23817efe1904,Artificial Intelligence (AI),,0
+e526bcfc-f9a7-4688-ac72-7373e5c6da27,abb97cd8-36de-4c7d-ab17-23817efe1904,Manuscript Development,,1
+2747baaf-6921-42c3-a448-8726f0cf8b59,abb97cd8-36de-4c7d-ab17-23817efe1904,Conference Services,,2
+b7a05c9a-92c4-4eb0-ac59-862ec3aea918,abb97cd8-36de-4c7d-ab17-23817efe1904,Customer Relationship Management (CRM),,3
+3c05860d-31e3-4fa9-8708-d36ce018632c,abb97cd8-36de-4c7d-ab17-23817efe1904,Statistical Data Analysis,,4
+cc12131a-7836-4c91-acd4-1f3643b4c0cc,abb97cd8-36de-4c7d-ab17-23817efe1904,Community Outreach,,5
+15e87da4-556c-4217-80bc-fa34c8dcaa30,abb97cd8-36de-4c7d-ab17-23817efe1904,Peer Support,,6
+9adf4174-2df1-4d75-8521-f4cd656d588c,abb97cd8-36de-4c7d-ab17-23817efe1904,Peer Mentoring,,7
+daba4630-be0d-493b-9794-a6155e67afa5,abb97cd8-36de-4c7d-ab17-23817efe1904,Community Engagement,,8
+100dfea0-06db-4711-a0c2-1d46de40795c,abb97cd8-36de-4c7d-ab17-23817efe1904,Suicide Prevention,,9
+139d19ca-70b9-48ea-88a7-607fbf83f38b,1d2f3d61-4015-4a66-a140-bf98f283d695,Collaborative Problem Solving,,0
+5375846e-7f6a-4845-b63a-5076be182c40,1d2f3d61-4015-4a66-a140-bf98f283d695,constructive dialogue,,1
+ba004e59-62a8-4487-b486-bb47a20cd51f,1d2f3d61-4015-4a66-a140-bf98f283d695,R (Programming Language),,2
+1095d849-846a-4d9c-849e-826fad151d44,1d2f3d61-4015-4a66-a140-bf98f283d695,Laboratory Skills,,3
+62f5f6de-dab5-40c2-a616-9e35a6e225f9,1d2f3d61-4015-4a66-a140-bf98f283d695,Science Communication,,4
+80691a2f-c14d-41cd-a458-7f6057d037d7,1d2f3d61-4015-4a66-a140-bf98f283d695,Data Extraction,,5
+183eca1e-8dc3-4724-b6b1-e53c9aa9c90e,1d2f3d61-4015-4a66-a140-bf98f283d695,Collaborative Teamwork,,6
+2b9862f1-9633-41c9-8088-e6801bdea531,1d2f3d61-4015-4a66-a140-bf98f283d695,Research Design & Experimental Planning,,7
+9e00feab-5736-492d-bf6a-ac8269741fc6,1d2f3d61-4015-4a66-a140-bf98f283d695,Microsoft Excel,,8
+20ac3f7e-a8ba-4f55-9d5d-211726382bae,1d2f3d61-4015-4a66-a140-bf98f283d695,Literature Review & Scientific Reading,,9
+3b00357a-5684-4d2d-b129-0b7531522048,d93bf6ad-efae-4411-9708-bdff1c9fe891,Technical Reports,,0
+f5bf32b5-5f5c-4958-b81b-b8f146b1ad1c,d93bf6ad-efae-4411-9708-bdff1c9fe891,Polymerase Chain Reaction (PCR),,1
+65657243-0e0e-4f11-b23c-dcb737a2efe5,d93bf6ad-efae-4411-9708-bdff1c9fe891,Mammalian Cell Culture,,2
+f831ea18-2c0c-481c-94e5-6202e1da5dd8,d93bf6ad-efae-4411-9708-bdff1c9fe891,Cryopreservation,,3
+fe160c39-fce1-4c34-8b3f-6fe280d54e2d,d93bf6ad-efae-4411-9708-bdff1c9fe891,Cell Culture,,4
+f606d523-38e6-434e-bffd-e0534b274c35,d93bf6ad-efae-4411-9708-bdff1c9fe891,MALDI-TOF mass spectrometry,,5
+7c88e0ff-244a-4e0b-85a4-ccc6b8cab3ac,d93bf6ad-efae-4411-9708-bdff1c9fe891,Western Blotting,,6
+ad0a6abf-26ed-43fd-aab5-6bab15238f73,d93bf6ad-efae-4411-9708-bdff1c9fe891,Immunocytochemistry,,7
+0575889c-dfa6-41c3-a626-496c4de650e2,d93bf6ad-efae-4411-9708-bdff1c9fe891,IBM SPSS Statistics,,8
+d94c1122-a9ce-4140-9042-cbc4b58fb60a,d93bf6ad-efae-4411-9708-bdff1c9fe891,GraphPad Prism,,9
+26513839-b025-4ccb-9a33-0534da9d69c4,41601368-5883-4c8c-acc3-410a620df99c,Precision Medicine,,0
+45cba9c9-53bb-4cd8-b33c-ec6f5bce63f0,41601368-5883-4c8c-acc3-410a620df99c,Entrepreneurship,,1
+508c507c-5455-4851-84e2-ac8d67690377,41601368-5883-4c8c-acc3-410a620df99c,Prescription,,2
+11395b4d-cacd-4287-87e0-e5f2c8ca6f97,41601368-5883-4c8c-acc3-410a620df99c,Referrals,,3
+ea27d477-fe5c-444d-a02c-e62cc5a9a944,41601368-5883-4c8c-acc3-410a620df99c,Electronic Medical Record (EMR),,4
+5cafe32f-53d9-4898-afaf-365dfae14841,41601368-5883-4c8c-acc3-410a620df99c,Virtual Teams,,5
+85ceca35-eb3b-4f14-908f-4a9f4378a4d6,41601368-5883-4c8c-acc3-410a620df99c,Health Education,,6
+127eddad-9bbc-4cfe-a5b1-debf4fc9c48e,41601368-5883-4c8c-acc3-410a620df99c,Longevity,,7
+33d3719a-6522-44f2-b7a6-18f5d7c133bb,41601368-5883-4c8c-acc3-410a620df99c,Voluntary Sector,,8
+9445bbdc-46fa-4d43-8f27-e78517949ffe,41601368-5883-4c8c-acc3-410a620df99c,Patient Experience,,9
+4360a27c-3529-40bf-bf43-8940325ead45,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Hands-on Research,,0
+3bf74c7a-914f-45a6-bb34-1eebe7fdd9b6,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Initiative,,1
+dce968ea-337f-46b8-b5c9-fd997bea09cc,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Data Analysis,,2
+048b51f0-89d2-4ac4-a406-ea95440db00f,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Teamwork,,3
+c16a8325-dccd-4a86-995d-257d4897ed31,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Social Media Marketing,,4
+75bd4aa6-84c6-4265-970e-9b91c49a67d3,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Project Management,,5
+10fa41d2-88fb-40fe-90e5-88d607ce0656,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Social Research,,6
+e24c32a0-6982-4203-8991-4fb121a858ff,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Patient Experience,,7
+570119d2-02ff-4c39-8f79-7af5c333ce6f,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Research Skills,,8
+def66da0-3cfd-4ec8-a29d-800ed6e7211d,1f1f4f23-4334-4f7d-8036-fa26d1c08d07,Organizational Leadership,,9
+2edadab0-4529-410b-bcb1-7f22f9ddecc4,8d5b5273-e5dd-4481-b206-93b7e7983e66,Teaching,,0
+9f76a573-184c-47d0-9c00-31853551f7b8,8d5b5273-e5dd-4481-b206-93b7e7983e66,Leadership,,1
+d54763c9-371c-42fc-bfb0-63d857b152f3,8d5b5273-e5dd-4481-b206-93b7e7983e66,Research Skills,,2
+425e34e8-6204-48e0-8d2a-f675ee8b5ac2,03db3f72-1adc-4d08-bdde-9864a58cb2a6,C (Programming Language),,0
+76d6b44e-0de2-4165-8167-0b8a4a382ae3,03db3f72-1adc-4d08-bdde-9864a58cb2a6,Image Processing,,1
+907cd9aa-a64f-4097-a9f8-3ec8053a51c3,03db3f72-1adc-4d08-bdde-9864a58cb2a6,Computer Hardware Troubleshooting,,2
+667b1028-8fe5-42a2-9b28-c0d3468091a5,03db3f72-1adc-4d08-bdde-9864a58cb2a6,Software Development,,3
+a83d55fa-c0d2-40e6-9854-4631c068f174,03db3f72-1adc-4d08-bdde-9864a58cb2a6,Calibration,,4
+3b93acef-d2a0-4ea9-951a-162df7acc4e1,03db3f72-1adc-4d08-bdde-9864a58cb2a6,Printed Circuit Board (PCB) Design,,5
+3cda4b44-39bf-4be8-8a39-7bb02500d3b5,03db3f72-1adc-4d08-bdde-9864a58cb2a6,Pattern Recognition,,6
+38d58f03-ddf0-4dc1-b50b-ca2dbd5e6d1a,03db3f72-1adc-4d08-bdde-9864a58cb2a6,ECG Interpretation,,7
+da199c62-7f00-4f9b-b400-e32d2b82d051,03db3f72-1adc-4d08-bdde-9864a58cb2a6,Matlab,,8
+722128f0-cebf-47bb-be1c-9762380d572c,03db3f72-1adc-4d08-bdde-9864a58cb2a6,Deep Learning,,9
+bf26b6b6-813b-4c0c-a2f1-5f138f226f20,65d6a6cf-d455-43a7-924b-1d1b25bb37d1,Advertising,,0
+be1e64f1-783d-4add-8fcc-c70d817e3ca8,65d6a6cf-d455-43a7-924b-1d1b25bb37d1,Leadership,,1
+4144071e-cb89-4963-941b-6cbc8db594e3,65d6a6cf-d455-43a7-924b-1d1b25bb37d1,Communication,,2
+1ae0a2b0-cf58-4660-b18c-0b68539d71fc,65d6a6cf-d455-43a7-924b-1d1b25bb37d1,Clinical Research,,3
+832631c0-8c4c-4039-b070-182664b18266,65d6a6cf-d455-43a7-924b-1d1b25bb37d1,Writing,,4
+1f331d63-5739-4f23-aa9a-cb6b4753edb7,65d6a6cf-d455-43a7-924b-1d1b25bb37d1,Team Leadership,,5
+70f3b6e7-8d54-4289-9bfa-9a95c231657d,65d6a6cf-d455-43a7-924b-1d1b25bb37d1,Project Management,,6
+50b759a8-1fb0-40a5-8d8a-4511f57ee798,65d6a6cf-d455-43a7-924b-1d1b25bb37d1,Neuroscience,,7
+00bb48a4-33cb-4219-8c5c-86be364579cc,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Reprogramming,,0
+e760ad38-254b-4311-992e-5ae5080dace7,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Neurodegeneration,,1
+dddf329f-3c78-4d84-8b38-3ad717dfe330,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Stem Cells,,2
+54e6f3ca-76e0-4941-94e8-f4a11df21675,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Organoids,,3
+ec8a53bc-3da8-4934-b37e-83aba7ee7576,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Biomedical Research,,4
+ac817e9d-c6d8-4f7e-9170-7a09255234e4,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Experimental Research,,5
+3658e905-d7ef-4e18-9474-0447401d8aef,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Regenerative Medicine,,6
+429f6bb0-effc-47eb-8a99-79d04dd5b8fe,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Forskning,,7
+7219ef3f-fb10-4c97-83ee-b9d05882c300,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Microsoft Office,,8
+75821c14-1785-4907-8fe1-61063d7eb0d8,f67871d0-cfe5-445d-bc2a-67b84dda39f2,Microsoft Excel,,9
+1b1389d1-c212-46f0-af42-bd1fc7ac835a,d3ee9809-6941-472e-83c1-7060e904c8e6,Laboratory Skills,,0
+ef978565-e125-42a4-9ebc-b632fad27c6c,d3ee9809-6941-472e-83c1-7060e904c8e6,Data Analysis,,1
+3516ec80-6be0-49da-a0bc-c5be778b7253,d3ee9809-6941-472e-83c1-7060e904c8e6,Animal Handling,,2
+83bb1b98-05a1-4037-a6de-eb661965c847,d3ee9809-6941-472e-83c1-7060e904c8e6,Leadership,,3
+ceabd8da-2ed8-465c-9920-e0daef043825,d3ee9809-6941-472e-83c1-7060e904c8e6,Chemistry,,4
+a56a4396-37ee-4589-b12c-cd5c897453a9,d3ee9809-6941-472e-83c1-7060e904c8e6,Organizational Development,,5
+36319b4b-c7ba-4f53-96de-bb38bad2fcae,d3ee9809-6941-472e-83c1-7060e904c8e6,Database Administration,,6
+a0c273bc-8901-4bb9-9cd6-625233f2069b,d3ee9809-6941-472e-83c1-7060e904c8e6,Interdisciplinary Research,,7
+8c6a0fef-4b75-4bdf-9b9e-0baaac29517e,d3ee9809-6941-472e-83c1-7060e904c8e6,Customer Service,,8
+da06cd35-7477-415f-b3a9-5d506107b889,d3ee9809-6941-472e-83c1-7060e904c8e6,Interpersonal Communication,,9
+f4d46330-214d-4eb8-925d-804ce3f415a4,78215c93-f205-4d9e-a8f8-a873f47ed90b,Policy Development,,0
+44598a19-ccc1-40c2-bf3d-74cffef297f7,78215c93-f205-4d9e-a8f8-a873f47ed90b,Leadership,,1
+d95859ce-adb6-4f34-8028-78549c1d55d3,78215c93-f205-4d9e-a8f8-a873f47ed90b,Strategic Planning,,2
+7f673b1e-e75d-4b46-9801-7303d5eb9d99,78215c93-f205-4d9e-a8f8-a873f47ed90b,Cross-sector Collaboration,,3
+b1c08a1c-ad52-4de0-a138-8cd4a87e46ee,78215c93-f205-4d9e-a8f8-a873f47ed90b,Prompt Engineering,,4
+871b797c-7b0f-4e54-a293-142d4f45f5b3,78215c93-f205-4d9e-a8f8-a873f47ed90b,JavaScript,,5
+45530d63-b113-4e49-8492-4e92929b8f75,78215c93-f205-4d9e-a8f8-a873f47ed90b,Project Management,,6
+b9b9963f-8dd7-4264-8623-b1c7be1049d2,78215c93-f205-4d9e-a8f8-a873f47ed90b,Python (Programming Language),,7
+9ccbdffc-896c-4b27-8c58-192edc2b0a3e,78215c93-f205-4d9e-a8f8-a873f47ed90b,Team Leadership,,8
+02dd54d6-6dd0-4c54-b9c5-ce73c4dfe6b0,78215c93-f205-4d9e-a8f8-a873f47ed90b,Clinical Research,,9
+e7139eff-a014-4166-9d2e-40e7845a9fdc,998b39b1-e74a-4198-b6eb-9618bc7d0250,Written Communication,,0
+1b1e58f0-f4a7-42cc-ab29-2939badc62e8,998b39b1-e74a-4198-b6eb-9618bc7d0250,Debugging,,1
+51ec5fa0-7b3d-4c40-9440-19eb4663cec8,998b39b1-e74a-4198-b6eb-9618bc7d0250,Database Management System (DBMS),,2
+4b40822e-f21f-4850-ab7e-d512ac8c208c,998b39b1-e74a-4198-b6eb-9618bc7d0250,Algorithms,,3
+292261db-2330-4618-9ab2-d357b4af8651,998b39b1-e74a-4198-b6eb-9618bc7d0250,React.js,,4
+53212057-e425-47fc-9a89-c5d629de205c,998b39b1-e74a-4198-b6eb-9618bc7d0250,Programming,,5
+3f579096-629b-4906-a15d-6e21dfbf1479,998b39b1-e74a-4198-b6eb-9618bc7d0250,Object Oriented Design,,6
+fa8ff8ba-7427-409e-b73d-58667e457eaa,998b39b1-e74a-4198-b6eb-9618bc7d0250,C++,,7
+f0be05de-568d-4003-a188-580a000643c6,998b39b1-e74a-4198-b6eb-9618bc7d0250,Pandas (Software),,8
+b59f072a-88f1-48ee-98db-7f46fd93e70a,998b39b1-e74a-4198-b6eb-9618bc7d0250,NumPy,,9
+1d423f2f-57ca-4960-84f1-b11ab30d3523,6da8654b-0024-4612-b1bc-7bb110709506,Community Outreach,,0
+74250a32-35c1-45d3-b92b-a7b181f017d0,6da8654b-0024-4612-b1bc-7bb110709506,Educational Outreach,,1
+774d4f80-2bdd-481a-b485-2d111ca1538c,6da8654b-0024-4612-b1bc-7bb110709506,Event Planning,,2
+6424e039-148f-40d4-8771-3ab5319543a3,6da8654b-0024-4612-b1bc-7bb110709506,Data Analysis,,3
+46e18643-670f-4ad9-8fb6-aa38f327c4db,6da8654b-0024-4612-b1bc-7bb110709506,Analytical Skills,,4
+aedcc906-be89-4401-920f-34681c5889ee,6da8654b-0024-4612-b1bc-7bb110709506,Adobe Photoshop,,5
+8999b5e6-2906-4c2f-97e5-b666c2df8145,6da8654b-0024-4612-b1bc-7bb110709506,Research Skills,,6
+d0bf2292-2963-4d0a-977f-5c93694abb41,6da8654b-0024-4612-b1bc-7bb110709506,Communication,,7
+170d814c-e824-4a63-9e3d-9e9ef91449dd,030f8cde-f2ae-4824-8f5b-98102638bf51,Leading Discussions,,0
+c4a74e37-840b-40e7-8e72-95e5060831d1,030f8cde-f2ae-4824-8f5b-98102638bf51,Teamwork,,1
+47b19137-ed9f-4b85-8c44-fc368fbb9b64,030f8cde-f2ae-4824-8f5b-98102638bf51,Customer Service,,2
+f93d11a4-ba31-45c3-9bac-7e76270bdb21,030f8cde-f2ae-4824-8f5b-98102638bf51,Communication,,3
+c6cfb3b7-2d54-4fcd-83b8-5219bc2b1efd,030f8cde-f2ae-4824-8f5b-98102638bf51,Organizational Skills,,4
+da2b722b-6502-441f-8b12-673884764d1d,030f8cde-f2ae-4824-8f5b-98102638bf51,Time Management,,5
+e7a56911-033b-47fe-be39-72889d9913f8,030f8cde-f2ae-4824-8f5b-98102638bf51,Conflict Resolution,,6
+8a0f029a-4436-435e-a3da-77851cd91ee3,030f8cde-f2ae-4824-8f5b-98102638bf51,Organizational Leadership,,7
+96ed3c25-5e03-4ab8-b7c2-357f0507ad35,030f8cde-f2ae-4824-8f5b-98102638bf51,Child Advocacy,,8
+f93990f5-0f79-434a-9ccd-20d6276443cf,030f8cde-f2ae-4824-8f5b-98102638bf51,Community Outreach,,9
+283b7dc0-5faf-48cd-a226-84218f35de4c,648fb3a2-6350-4425-a06b-0f365af47a02,ArcGIS Products,,0
+9308f172-f0c5-48f3-8d30-ceb84f012010,648fb3a2-6350-4425-a06b-0f365af47a02,Statistics,,1
+89b53cdb-8eff-42ac-bf86-3297bf621e6e,648fb3a2-6350-4425-a06b-0f365af47a02,Research Skills,,2
+fc3ac760-8170-4b83-81e9-c295f095fd36,648fb3a2-6350-4425-a06b-0f365af47a02,Field Work,,3
+2e67ac89-ff9b-429a-84d9-f5ea819e7543,35907a16-9410-45ac-92ed-2912d1bc44e5,Research Support,,0
+e975f83c-71a1-4cb8-b8e5-81916e543f2a,35907a16-9410-45ac-92ed-2912d1bc44e5,Academic Research,,1
+c9ae57da-046a-41d7-a4f1-be0a945daf6e,35907a16-9410-45ac-92ed-2912d1bc44e5,Microsoft Office,,2
+34f7f808-cd4d-41fe-ae13-9ecf90f9ffb5,35907a16-9410-45ac-92ed-2912d1bc44e5,Teamwork,,3
+4abe700a-6a69-4161-98bb-abfdd08962c3,35907a16-9410-45ac-92ed-2912d1bc44e5,Attention to detail and ability to work accurately,,4
+338aa388-c344-4a85-a711-7325244cc211,35907a16-9410-45ac-92ed-2912d1bc44e5,Organization and leadership skills,,5
+299a936b-8569-4a5e-8e9f-0ef76d441186,35907a16-9410-45ac-92ed-2912d1bc44e5,Strong written and verbal communication,,6
+cd805e7e-c2c5-4f71-b6ea-3eec3387ac0a,665c216d-2be7-44fb-93f3-ebb348312ccf,Relationship Building,,0
+2238dc4e-d745-488b-bd49-ced20d86d24b,665c216d-2be7-44fb-93f3-ebb348312ccf,Coordinating Meetings,,1
+d5bc2783-1ca9-4037-a614-e6e2608f91bd,665c216d-2be7-44fb-93f3-ebb348312ccf,Public Policy,,2
+f71a12c1-dc76-4a48-bf93-9ba678a5523b,665c216d-2be7-44fb-93f3-ebb348312ccf,Political Science,,3
+9edccec1-d1cb-438b-8daf-a5df83826c7d,665c216d-2be7-44fb-93f3-ebb348312ccf,Strategic Communications,,4
+aa2c8178-33f7-4349-a802-c87d7d4595a1,665c216d-2be7-44fb-93f3-ebb348312ccf,Strategy,,5
+bd5e43aa-cf44-4fcf-a0af-af8bc5341e53,665c216d-2be7-44fb-93f3-ebb348312ccf,Press Releases,,6
+2ec6f3db-d251-4b73-9310-7e17e2296413,665c216d-2be7-44fb-93f3-ebb348312ccf,Political Risk Analysis,,7
+4b48de94-f882-485a-a287-526cb6f6db80,665c216d-2be7-44fb-93f3-ebb348312ccf,Policy Planning,,8
+a936fe86-27c0-4b63-b39e-efc85d2095b2,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Microscopy,,0
+d9bb6069-cdcd-4910-a409-6d775039882e,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Confocal Microscopy,,1
+0a89caef-cf87-4c36-836a-0a381b03c6a0,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Histochemistry,,2
+a0ac61d2-ad1f-4a88-8ded-bc68426ccfc5,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Immunofluorescence,,3
+dc94a7b7-7868-4ea0-8876-ee97e8c34415,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Research,,4
+ec5ad19f-64b3-4dd8-a42f-b7072783a482,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Flight Dispatch,,5
+c3e86e51-5724-40f8-a331-0a3d86c272ef,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Airlines,,6
+8b31e522-a962-49d9-ae37-bc6272a02725,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Aviation,,7
+812444ae-cd28-4155-93b7-142274e04e38,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Commercial Aviation,,8
+7b52817d-56bd-45c3-80a8-b0156ddef3c2,be905b1e-163c-4cd9-b36b-a1bdd45d8abe,Single Cell Sequencing,,9
+e8c2f6af-d1eb-4413-8c36-3e6a0b376383,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Teaching,,0
+23508f36-3d53-473f-b24a-5e4d196ac51b,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Higher Education,,1
+0de35f27-46fa-425a-911e-8251665bc6fe,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Mental Health,,2
+6ad2410b-99e7-41a6-a92d-31b8d3370b62,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Psychology,,3
+43387b48-d751-4404-87ff-825e09d37a2a,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Program Development,,4
+6b6a218c-76e8-4fba-88a5-169a79141954,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Strategic Planning,,5
+cea5ddff-72e1-4c4e-8a78-a6aef5f23f6a,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Nonprofits,,6
+241c0016-50b9-4dc3-b57a-2053ff24865d,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Team Building,,7
+af2cc62d-51e1-431a-97e5-509d6f3288f8,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Public Speaking,,8
+952555f7-0624-4c40-8784-66d87bacf3c5,8113edcb-7d34-4b96-ab2b-49f9e96ef448,Adolescents,,9
+71211f40-6fd0-43d5-8de3-d4e27ecc6f96,ffb6f5ee-f522-4676-9d97-adc0167b07c5,Team Leadership,,0
+135e8b76-96c5-4044-80ef-855e64c3289c,ffb6f5ee-f522-4676-9d97-adc0167b07c5,Management,,1
+fde2ed57-d73d-4a64-8d9f-c1058b7b997c,ffb6f5ee-f522-4676-9d97-adc0167b07c5,Clinical Services,,2
+74cdc515-cad4-4ad2-8dce-dc029bae98b7,ffb6f5ee-f522-4676-9d97-adc0167b07c5,Clinical Support,,3
+dfe372f8-e82b-4697-88e1-c3748506580a,ffb6f5ee-f522-4676-9d97-adc0167b07c5,Customer Service,,4
+23c73c4b-98ce-4ea7-a2a9-91f7c022058f,ffb6f5ee-f522-4676-9d97-adc0167b07c5,Communication,,5
+cbdd1197-846a-4f0b-a32d-f6087c74cc7a,e08e3686-313b-4b16-a632-07ecfb926907,Behavioural testing of animal models,,0
+6901b32f-019c-423e-a00b-09aebb2cf1f6,e08e3686-313b-4b16-a632-07ecfb926907,Swim Instruction (All Levels),,1
+d0a28266-5d0b-414b-bfb6-18fedd0e8e05,e08e3686-313b-4b16-a632-07ecfb926907,First Aid Training,,2
+dad92c3a-66c6-46a7-972f-cc145a439636,e08e3686-313b-4b16-a632-07ecfb926907,Cardiopulmonary Resuscitation (CPR),,3
+1b2df4bd-ff21-4e3e-867f-db95c4180808,e08e3686-313b-4b16-a632-07ecfb926907,Youth Coaching,,4
+e0b24684-32e3-4617-8b3f-a99f3ae7b076,e08e3686-313b-4b16-a632-07ecfb926907,Risk Assessment,,5
+e9fa23ce-5ba6-4fca-93aa-c5d9a218c7b9,e08e3686-313b-4b16-a632-07ecfb926907,Team Building,,6
+a64eb742-0960-4e4a-a887-dc54838d0125,e08e3686-313b-4b16-a632-07ecfb926907,Athlete Motivation,,7
+e9cc550f-d803-48b5-bdbe-52fca2f9c06f,e08e3686-313b-4b16-a632-07ecfb926907,Immunohistochemisty,,8
+2624dec5-277f-47d0-87a9-ce96a5c3d2d7,e08e3686-313b-4b16-a632-07ecfb926907,Confocal Microscopy,,9
+9a314338-8bd7-4e5e-92a9-fc52527669d0,c482b87a-e1fb-469c-bc13-0fe781d721cb,MRI,,0
+34dcdcd3-79d9-4b37-bd4b-9a1e3e0cec0c,c482b87a-e1fb-469c-bc13-0fe781d721cb,Parkinson's Disease,,1
+a133ffa1-49fc-4090-9525-0a2f86b4d9c8,c482b87a-e1fb-469c-bc13-0fe781d721cb,MATLAB,,2
+213356f5-5f98-462b-b097-afca66ba70f1,c482b87a-e1fb-469c-bc13-0fe781d721cb,Cognitive Neuroscience,,3
+bd866691-be22-4c64-9522-4dea1a5c45a2,c482b87a-e1fb-469c-bc13-0fe781d721cb,Neuroscience,,4
+4c84e85f-3917-4539-9443-ed2566425ece,c482b87a-e1fb-469c-bc13-0fe781d721cb,Physics,,5
+872b5f36-d7cd-4a3d-b3f5-b701f8236938,c482b87a-e1fb-469c-bc13-0fe781d721cb,Teaching,,6
+162a447f-8d64-4f2d-ae30-def99a2ac74d,c482b87a-e1fb-469c-bc13-0fe781d721cb,Epilepsy,,7
+32759b23-2a7f-43c3-8352-7ac059a342e6,c482b87a-e1fb-469c-bc13-0fe781d721cb,Neuroimaging,,8
+03484b82-2f0f-405d-95df-b965d8490beb,c482b87a-e1fb-469c-bc13-0fe781d721cb,Python (Programming Language),,9
+12dbd43c-4950-41cb-8b6c-dd6fb96871e9,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Clinical Data Management,,0
+0eac0208-a7df-49a5-8e17-d2f00fcf13fe,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Electronic Data Capture (EDC),,1
+8ca02d11-d6dc-4c74-a41b-14dc7a7aa6d9,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Leadership,,2
+87c56b41-61d4-4bc7-9df2-c3e892cce345,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Classroom Management,,3
+4d901069-caa3-45f9-a937-3161522ee5c2,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Strategic Planning,,4
+f833952f-4e34-4030-894d-1608e2028ac0,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Problem Solving,,5
+f7569136-9b0b-4e22-bad1-9c21c4416c58,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Research Skills,,6
+42d50015-4344-4eb4-a8ea-173efbd16b69,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Scientific Writing,,7
+acf9d189-0eb2-420a-a8be-ff8e1a989e6d,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Teaching,,8
+7233d930-5a6a-4c57-b464-3de4a4ff2b26,3ffdeca2-9b8b-40c9-aff0-dc5d23dcb88d,Communication,,9
+f5f08890-2071-4e65-8068-f1ef7a86131d,413e38f3-fde4-41ab-86d9-0bf48f4c5eec,Clinical Study Management,,0
+130b890f-f175-4124-9dad-e1c26aea7df3,413e38f3-fde4-41ab-86d9-0bf48f4c5eec,"Laboratory Skills (Pipetting, Titrating, Streaking & Straining)",,1
+a6ae4d56-6f5a-4d4e-8d46-32a942da5a08,413e38f3-fde4-41ab-86d9-0bf48f4c5eec,"Programing Software (Python, C++, HTML, Java)",,2
+2687936f-f281-41ad-93b0-822cd39786fc,413e38f3-fde4-41ab-86d9-0bf48f4c5eec,"Microsoft Office (Excel, Word, PowerPoint, Outlook, OneNote)",,3
+81291815-79ac-4461-bb96-77775cf99cdd,31734037-6b81-4bc5-b485-650f05e4fe91,Skills,,0
+9819ab61-3d23-4cae-8d97-5b6e9c21ebd9,31734037-6b81-4bc5-b485-650f05e4fe91,Academic Research,,1
+10d5cfac-a48f-4d98-8319-2c478701f3df,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Operations Management,,0
+17a3fa0a-bf11-418a-a73d-4a777325bbae,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Business Development,,1
+ca949b5b-9669-49fb-8f07-a61fed87532d,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Collaborative Work,,2
+7fa979b9-9ffe-4a45-9597-7309eb7cc9a5,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Research Design,,3
+6d7417a0-1ad3-4369-8392-0ab4c96f851f,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Animal Handling,,4
+1aadd27b-b1e5-4a72-911d-d214e0a21572,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Tenacious Work Ethic,,5
+43dc3623-22cb-4e2f-a82d-4464c79c2842,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Laboratory Techniques,,6
+279fcc71-3f80-4df7-ab3d-5b9cf9f353e0,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Public Speaking,,7
+6b5c7c4d-2721-4c6c-9628-cb229aaee3ea,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Teamwork,,8
+05f42244-e6cd-425d-a4dc-650b779c42f0,abfaa604-a017-4d5e-9aec-ecb586b0ddd4,Communication,,9
+70b3bba5-e53f-485a-9a38-14473964a2b8,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Financial Analysis,,0
+841bffab-c1ba-4c47-be17-3e4160558a9e,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Teamwork,,1
+4297cd43-4330-489e-aed4-39ba81a9d7fd,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Interpersonal Communication,,2
+6ee37128-ae61-4e3a-96e1-1fb7f7c80ce5,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Problem Solving,,3
+63b53e94-8ad7-45e9-b633-57de0fe0a7b0,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Analytical Skills,,4
+96340853-211b-4a4d-ab52-60da4ff8bd8c,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Communication,,5
+6bf04545-6295-475d-8f17-21bf4cec206d,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Easily Adaptable,,6
+d2199d48-78b9-46e9-beb9-e50f32be7a01,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Teaching,,7
+fc1b9c4b-ee73-4e30-9c8d-1672e1e6a5f8,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Networking,,8
+3201d373-5fb5-4875-8a97-86daa50d24ce,04c0502c-e2fa-4de1-b7e4-1e471df6d292,Team Leadership,,9
+76c54efb-7bbe-4e4d-9e57-0d6d900cf600,227f9d77-1bcf-487a-82db-0b1b7e563d80,Global Health,,0
+da2fe2df-ac90-40a9-80cb-3e53fd7b6d46,227f9d77-1bcf-487a-82db-0b1b7e563d80,Healthcare Team Collaboration.,,1
+1dae372d-b1e7-4c08-adca-c4633611b718,227f9d77-1bcf-487a-82db-0b1b7e563d80,Patient Safety,,2
+61c62162-d431-4058-a976-bc05a70d0f21,227f9d77-1bcf-487a-82db-0b1b7e563d80,Medical Education,,3
+1f6fc081-7f70-4f1c-8db9-53187c91ed1c,227f9d77-1bcf-487a-82db-0b1b7e563d80,Computed Tomography (CT) Imaging,,4
+2cfdd4cb-5fcf-4e00-ba54-3467b62a8beb,227f9d77-1bcf-487a-82db-0b1b7e563d80,Radiology,,5
+acf25b8c-8b89-4646-8c59-58c53a349199,227f9d77-1bcf-487a-82db-0b1b7e563d80,Primary Care,,6
+66ec430c-d7b6-43e4-99cc-28af00cabe18,465607d0-7eec-4fc1-9e85-f3ba7630de87,Cognitive Neuroscience,,0
+358c1490-0cda-4435-bd9e-20077e12f616,465607d0-7eec-4fc1-9e85-f3ba7630de87,Academic Research,,1
+2af3b414-6069-4946-a801-a192c78bcc10,465607d0-7eec-4fc1-9e85-f3ba7630de87,Electrophysiology,,2
+63494510-5f76-40f1-800b-06abf7cba7cc,465607d0-7eec-4fc1-9e85-f3ba7630de87,Movement Disorders,,3
+f6230090-b266-45ff-a1e0-b4aeff69f836,465607d0-7eec-4fc1-9e85-f3ba7630de87,Recruiting,,4
+e173f256-f4ff-4fa1-9990-c576ad46a670,465607d0-7eec-4fc1-9e85-f3ba7630de87,Transcranial Magnetic Stimulation,,5
+d0155e27-a8b1-44ce-98ea-deb0d853c02f,465607d0-7eec-4fc1-9e85-f3ba7630de87,Computational Neuroscience,,6
+bf79c68d-fc16-4b78-9703-f7d7a31e032d,465607d0-7eec-4fc1-9e85-f3ba7630de87,Transcribing,,7
+d7ce9192-e45c-49cd-aa8f-bcd1fdf63738,465607d0-7eec-4fc1-9e85-f3ba7630de87,MATLAB,,8
+af1915fe-aaf0-42b2-ad70-a9efcc9b2385,465607d0-7eec-4fc1-9e85-f3ba7630de87,Statistics,,9
+091490df-d701-4260-8370-37cf2f8e22e7,2639593a-850c-4dcb-be8b-e338bccf7a2f,Alzheimer's Disease,,0
+d2e46c0f-53cb-4463-b335-edf640487a46,2639593a-850c-4dcb-be8b-e338bccf7a2f,Bioelectronics,,1
+e7830364-fe97-4e96-91a0-18e1c0df4f33,2639593a-850c-4dcb-be8b-e338bccf7a2f,Electromyography (EMG),,2
+36d73cb9-2613-46bc-aa25-dd861d87b268,2639593a-850c-4dcb-be8b-e338bccf7a2f,Electrocardiography (EKG),,3
+8bf9725b-aa05-4940-93dd-721830f33f1e,2639593a-850c-4dcb-be8b-e338bccf7a2f,Presentation Skills,,4
+dfe3e28c-a131-48d5-b8f0-d3fb46dc76b7,2639593a-850c-4dcb-be8b-e338bccf7a2f,PyTorch,,5
+1856f9b8-2d47-44aa-8a7f-5c6227aeb125,2639593a-850c-4dcb-be8b-e338bccf7a2f,Computer Vision,,6
+086721a2-2a74-4599-a692-d7e3145bc0e8,2639593a-850c-4dcb-be8b-e338bccf7a2f,Deep Neural Networks (DNN),,7
+28e82d29-6ee7-4b18-adaa-e9db4a4cb90e,2639593a-850c-4dcb-be8b-e338bccf7a2f,Parkinson's Disease,,8
+7b46c199-5f43-4a54-95ec-71acfac729e8,2639593a-850c-4dcb-be8b-e338bccf7a2f,Neural Networks,,9
+1af38c93-5d62-4645-9e92-d64d80f5110c,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,EEG,,0
+b5a359d6-64d7-4cb0-9cdb-fcde651e94a1,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,MATLAB,,1
+d88dbed0-504c-43b7-8162-1f27daeade50,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,Jane App,,2
+c972c760-0e92-4d58-a895-33378c781bba,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,Qualtrics,,3
+09f6d34d-4ef8-4001-a05d-22ae4326d00c,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,Python (Programming Language),,4
+96128996-d4c8-4ba9-a6f9-c1392f087716,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,Data Analysis,,5
+987ce923-eb67-4403-8ede-994d1482cabf,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,Wet Labs,,6
+5c057ac4-e94b-4454-8282-9655c55baefc,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,REDCap,,7
+b20bb268-6d44-438f-a3af-9ae51f29ac44,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,Microsoft Office,,8
+280d601b-072d-4767-8e56-3d4c503c156c,38acbe79-6c1d-44bb-9a7e-30d7a3ce2efc,Clinical Research,,9
+661d7f91-afa8-420f-8c6e-3060074fbd47,485a2419-bb01-4142-868a-e70aa0b15adb,Teamwork,,0
+f21ba0a7-02fb-496f-bc18-933917b4ab7d,485a2419-bb01-4142-868a-e70aa0b15adb,Sports Management,,1
+77fd0297-f036-4d6c-9435-e77b6df16441,485a2419-bb01-4142-868a-e70aa0b15adb,Data Analysis,,2
+7c2d75c6-5116-46bd-acda-743717234ec5,485a2419-bb01-4142-868a-e70aa0b15adb,Laboratory Techniques,,3
+be67e98f-3c7d-4b42-a158-6d0b1bb1ba34,485a2419-bb01-4142-868a-e70aa0b15adb,Collaborative Work,,4
+62b2b5cd-0cd5-421f-83a6-d469148bea58,485a2419-bb01-4142-868a-e70aa0b15adb,Administration,,5
+990d07a3-a495-4d27-a52c-c0de18f5bfbb,485a2419-bb01-4142-868a-e70aa0b15adb,Volunteer Management,,6
+543a348d-f890-4cb4-a9d2-3c03832ceb67,485a2419-bb01-4142-868a-e70aa0b15adb,Customer Service,,7
+8afa84d9-fea1-4ec6-9417-011f181ec292,485a2419-bb01-4142-868a-e70aa0b15adb,Sales,,8
+7648c134-112f-475a-b9d1-0f33c5f1f557,a15a3687-bd20-46c5-91aa-ceabe7296098,Academic Research,,0
+e1668ecc-283d-422a-9a0f-63bbb2cfde3c,a15a3687-bd20-46c5-91aa-ceabe7296098,Contemporary Dance,,1
+2cc0884c-0d3e-477b-95df-a0183ab69b7e,7fedd5a7-fdd5-4e8b-b956-2783b161a1d8,Research Skills,,0
+99dfd2ab-9c31-48e4-856f-fc07c953a762,7fedd5a7-fdd5-4e8b-b956-2783b161a1d8,Communication,,1
+6106dbfd-c236-461f-abce-a2eed33e97b9,7fedd5a7-fdd5-4e8b-b956-2783b161a1d8,Team Leadership,,2
+b0eb6475-2451-4b46-bb6b-26e28607ae2b,7fedd5a7-fdd5-4e8b-b956-2783b161a1d8,Laboratory Techniques,,3
+ce320bde-ca8b-4816-a8dd-ae0d399ffd73,7fedd5a7-fdd5-4e8b-b956-2783b161a1d8,Powerlifting,,4
+4ee8a040-4229-4109-8b56-95c16fbbad07,d029dce6-a864-4662-9d89-1be8d56154d0,Skills,,0
+20232156-3c7d-4cfb-b22f-385e32e8c743,d029dce6-a864-4662-9d89-1be8d56154d0,Research Skills,,1
+01cd1640-0787-45fc-aece-29c69a5c3679,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Satisfaction client,,0
+e91c7c42-748a-48ac-8c33-a8855a7abe3c,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Connaissances en informatique,,1
+d5bf2c3b-04c8-46e0-be33-4fef385743de,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Administration,,2
+35ca1f41-172a-48ae-870e-e3f1174a0e0d,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Business-to-Business (BtoB),,3
+e6ccb00c-8598-43fa-9825-a694098c8c07,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Français,,4
+ee868404-eafd-4ba1-866e-fa809a698522,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Adaptation,,5
+17d5d3a9-8ea7-4db2-b098-bb780d069afc,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Marketing,,6
+ee41a406-1925-4b99-b4b8-d669bb90aaab,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Gastro-entérologie,,7
+473fc933-909a-4771-8326-31abd079d96f,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Développement de relations,,8
+6eeb4b66-a14d-411f-a82a-d47c64f1bdb2,9b9bd15c-aeea-43f7-806f-5066d2b9995a,Conseil en vente,,9
+175508e0-f35a-493f-973b-37a5ed7f5a15,49763fcc-eef0-4d5c-b7b6-e50306059e11,University Teaching,,0
+a647ff04-3eb0-4fd0-a128-4396d636a86d,49763fcc-eef0-4d5c-b7b6-e50306059e11,Teaching Assistant at Carleton University,,1
+59f2b87d-0a31-4368-bf62-3bf1fdb3a3d1,62fa7380-8183-42fe-a930-117c70326e50,Western Blotting,,0
+c57c68f5-659b-4288-98e3-efbf2b5721d2,62fa7380-8183-42fe-a930-117c70326e50,Real-Time Polymerase Chain Reaction (qPCR),,1
+3db2288e-c546-4aca-909e-7ae8fdf0b2e0,62fa7380-8183-42fe-a930-117c70326e50,ELISA,,2
+849c32c1-010f-4758-9160-50d922c6ed94,62fa7380-8183-42fe-a930-117c70326e50,Luciferase Assay,,3
+c00af6b3-c553-421f-b286-dee5a1b71d4d,62fa7380-8183-42fe-a930-117c70326e50,Data Analysis,,4
+824a7710-a66c-4bb5-88fe-a52bdee62434,997a851c-ca3e-4456-92a0-d5ec84cdffc1,Team Management,,0
+26e9b1a3-b975-4116-86b8-f3a193258d41,997a851c-ca3e-4456-92a0-d5ec84cdffc1,Team Coordination,,1
+5a1f5738-672d-4353-a341-57d6fc7018ec,997a851c-ca3e-4456-92a0-d5ec84cdffc1,Project Management,,2
+d8d33484-dd7a-406b-9c8b-6a58cac69cb9,997a851c-ca3e-4456-92a0-d5ec84cdffc1,Team Leadership,,3
+c9fb96fe-bb5b-4c76-b809-14ad7219772b,997a851c-ca3e-4456-92a0-d5ec84cdffc1,Clinical Research,,4
+646ea4b2-9683-4a65-8d02-866da1d20918,997a851c-ca3e-4456-92a0-d5ec84cdffc1,Proposal Writing,,5
+c518fdb1-3b54-4d40-b55a-d6363d8bf377,997a851c-ca3e-4456-92a0-d5ec84cdffc1,Report Writing,,6
+0cf6bb75-fe76-43c6-afdf-e1bb3d98b025,997a851c-ca3e-4456-92a0-d5ec84cdffc1,Research Skills,,7
+ff453f8d-c430-4319-8d52-277f2795f426,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Neuroimmunology,,0
+37678d50-2f18-4099-8ed2-725ec6d8bb38,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Biochemistry,,1
+c2713f30-465a-42eb-8cf2-17ea5aedc47a,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Project Coordination,,2
+1d9c155c-07ed-4cdc-ad13-c2df592485da,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Event Planning,,3
+42dd61b4-9070-4d2d-932a-0b3267559508,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Conference Presentations,,4
+d952f686-96b9-4d39-a4e2-091369f06e66,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Fire Safety,,5
+fc92bb0a-ea10-42c5-b27c-d7de1194a51e,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Working with Physicians,,6
+71045f85-9546-4da5-8b82-1273e41e21f8,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Communication Ethics,,7
+628c7b50-141f-4233-bbc0-0ae36a1f468a,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Personal Protective Equipment (PPE),,8
+79a5048e-3d31-4d9b-9931-1893524d01cc,d23db97e-46c1-4abe-9ce3-82d4fd8cf228,Pediatrics,,9
+ab855b05-53ef-4e9e-a096-37438b43ff9d,df6cc404-4b74-4055-ab48-e3d1530e133b,Project Management,,0
+2e13932b-a62d-4873-a485-da558cd46a03,df6cc404-4b74-4055-ab48-e3d1530e133b,Digital Media,,1
+3270fcbb-65cd-42a0-be02-5dd9688343d2,df6cc404-4b74-4055-ab48-e3d1530e133b,Advertising,,2
+497a5efc-413c-452d-8169-2b4cd67ab11b,df6cc404-4b74-4055-ab48-e3d1530e133b,Corporate Communications,,3
+eedfc078-77d7-46ed-8b15-616bddad8a99,df6cc404-4b74-4055-ab48-e3d1530e133b,External Communications,,4
+a847c1c2-ed99-451f-8b94-0cada72f594b,df6cc404-4b74-4055-ab48-e3d1530e133b,Public Engagement,,5
+91473935-fcdf-4607-bb24-588246edc51f,df6cc404-4b74-4055-ab48-e3d1530e133b,MailChimp,,6
+141ae432-eb70-4834-bb6a-fc7b21e271fd,df6cc404-4b74-4055-ab48-e3d1530e133b,Writing,,7
+9de5c5f1-7d79-4257-8a02-af683fb17220,df6cc404-4b74-4055-ab48-e3d1530e133b,Sales,,8
+d27f2131-349c-4d9d-9761-8bc40e10ffde,df6cc404-4b74-4055-ab48-e3d1530e133b,Canva,,9
+c61c970c-6eac-4adb-b859-26ee30889e68,cfaec4a3-cc93-432e-ab4b-4e7bef34013f,Analytical Skills,,0
+136b2ec4-9f5c-4524-8349-3b98c12fe0c3,cfaec4a3-cc93-432e-ab4b-4e7bef34013f,2 experiences at Alberta Precision Laboratories and 1 other company,,1
+e012aa37-f83b-4018-8b71-056d568ece5a,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Medical Science,,0
+a7ba4811-78df-4158-a455-a2df7159b17d,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Cross-functional Coordination,,1
+e1b75c80-b9f4-4234-abc2-8d54fd9d8ad0,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Clinical Trials,,2
+1d35f7f4-c06e-4f2a-88a4-1cdfaa088d58,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Program Management,,3
+c9193e37-93a7-4f7a-bb68-9ba743a2a1c1,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Clinical Outcomes,,4
+75dcaf80-be3e-4742-bb06-22b2ae104400,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Athletic Performance,,5
+854b1ed5-d111-424f-a807-e02131d53174,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Clinical Sleep Research,,6
+52237ac1-5d49-4fb3-aae7-292265b16bda,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Creativity and Innovation,,7
+fe6e10f9-81a1-47dc-b962-42a975d25e10,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Sleep Science,,8
+81a4429e-e4e0-44b0-8c34-21803185e7ea,192f55da-ccb8-4044-aaa6-85ecbb975620,Artificial Intelligence (AI),,0
+239674bd-f3e9-433a-8151-62244904595f,192f55da-ccb8-4044-aaa6-85ecbb975620,Machine Learning,,1
+b7a39048-1468-4a21-87da-ebcf1ec1dbc9,192f55da-ccb8-4044-aaa6-85ecbb975620,Python (Programming Language),,2
+0b102ea8-bc6a-4cb8-bacb-0e38b042d891,192f55da-ccb8-4044-aaa6-85ecbb975620,Computational Neuroscience,,3
+94a4581f-5b55-41c6-b5eb-5bcc81595981,192f55da-ccb8-4044-aaa6-85ecbb975620,R (Programming Language),,4
+21d4e8ba-81de-456a-987c-e1aa09b9ad50,192f55da-ccb8-4044-aaa6-85ecbb975620,MySQL,,5
+8755c6a3-ded4-4af2-a08b-123998e8b122,192f55da-ccb8-4044-aaa6-85ecbb975620,Biomedical Engineering,,6
+a3398802-bb7f-48ea-8081-82e402530d3f,192f55da-ccb8-4044-aaa6-85ecbb975620,Data Modeling,,7
+8eb9f87b-88a9-4af2-a861-c565b13b9064,192f55da-ccb8-4044-aaa6-85ecbb975620,Marketing Strategy,,8
+18b55e08-3870-4a73-a91e-b6400a0aaaa5,192f55da-ccb8-4044-aaa6-85ecbb975620,Project Management,,9
+d6a90fc2-681a-4742-ad05-00553ecb7687,3d67002f-ea42-477e-9764-d79d06acc9be,Management,,0
+c4b800e7-9531-4051-94c7-3e18db750874,3d67002f-ea42-477e-9764-d79d06acc9be,Program Evaluation,,1
+d3691a91-14d5-4eb7-aae9-8a35bcf6d850,3d67002f-ea42-477e-9764-d79d06acc9be,University Teaching,,2
+0e62e2b9-f394-4e20-8a04-a84c5f36df7e,3d67002f-ea42-477e-9764-d79d06acc9be,Mathematics,,3
+0cf50c9f-12ae-4cdb-825c-6b91cd43801b,3d67002f-ea42-477e-9764-d79d06acc9be,Physics,,4
+2dc4121e-bbfa-48ae-8ae6-6a63798d93f8,3d67002f-ea42-477e-9764-d79d06acc9be,Quantum Optics,,5
+6a908c86-5b11-430a-88d1-e17987957346,3d67002f-ea42-477e-9764-d79d06acc9be,Research,,6
+b30a33dd-6bf6-4195-a0dd-42470d88814d,3d67002f-ea42-477e-9764-d79d06acc9be,Bookkeeping,,7
+269e3e20-1a7c-4672-ad7a-463619129ac1,3d67002f-ea42-477e-9764-d79d06acc9be,Numerical Analysis,,8
+02986c8a-d59d-432c-84b2-16c6ed730065,3d67002f-ea42-477e-9764-d79d06acc9be,Photonics,,9
+36fa30c5-ca27-476c-9da2-e6d389ed6ea1,d999af6a-e7ea-421f-a46d-f5fda03ed808,Interviewing,,0
+679e3fbb-3609-4f15-aade-70b0edd5fe9d,d999af6a-e7ea-421f-a46d-f5fda03ed808,Writing For The Web,,1
+8d4179e8-2b83-4cc8-b7fa-8975982f3376,d999af6a-e7ea-421f-a46d-f5fda03ed808,Internal Communications,,2
+92b25ff5-491a-4374-ae8a-d5059d2ff801,d999af6a-e7ea-421f-a46d-f5fda03ed808,Key Message Development,,3
+7036d645-3aea-4d63-ad44-69fa95d30376,d999af6a-e7ea-421f-a46d-f5fda03ed808,Web Content Writing,,4
+0651de04-07a1-47cb-9aec-dde7dc198804,d999af6a-e7ea-421f-a46d-f5fda03ed808,Strategy,,5
+9fd2d1bc-0961-4362-b511-6e86b594648d,d999af6a-e7ea-421f-a46d-f5fda03ed808,Anti-racism,,6
+ff5ecd09-30ff-4e95-9aac-ab3d68bccc40,d999af6a-e7ea-421f-a46d-f5fda03ed808,Diversity & Inclusion,,7
+2962598a-b87a-4714-9c68-d1beb84fcba4,d999af6a-e7ea-421f-a46d-f5fda03ed808,Leadership,,8
+a197db01-322b-4d39-826f-54245d2397e6,d999af6a-e7ea-421f-a46d-f5fda03ed808,People Management,,9
+2d5ff9a9-28fd-41a6-86e1-5fd8a669136b,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Change Management,,0
+dacb0397-535b-4d0c-809d-f8d67b2c6314,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Project Planning,,1
+5904b74f-c33a-4c38-856d-67931a2cecef,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Leadership,,2
+64020ec0-dcec-46df-bca7-d26ceff408f6,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Collaborative Problem Solving,,3
+89216f45-f7ee-4645-b6c0-7c4e464e92d0,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Collaboration,,4
+19cb67ef-612b-4ce1-9b88-1c5830c2942f,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Project Evaluation,,5
+dff79c63-c956-4fd4-b1b3-aa5f3c2dd630,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Change strategy,,6
+90941a42-26b8-4c8c-be00-c0273f133ce7,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Speaking French,,7
+c33ad8c6-a799-4cba-b1a1-627306250325,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Program Development,,8
+30744bb3-0d38-42cd-b229-832b7fea39a2,480cc2ee-0cb0-41ea-96b5-90c6afcb2a8d,Program Management,,9
+66e071d9-0261-46a7-a876-0588ee40c2d0,ef121235-d2e7-4250-bbe1-9fceb6febae7,Leadership,,0
+4374b420-362e-4192-958d-8e0020a9ef8d,ef121235-d2e7-4250-bbe1-9fceb6febae7,Higher Education Funding Environment,,1
+598b1a08-0453-4b56-a469-34014db4f0ac,ef121235-d2e7-4250-bbe1-9fceb6febae7,Project Management,,2
+c4be3ae2-2942-4086-900e-a2e2b95bbc83,ef121235-d2e7-4250-bbe1-9fceb6febae7,Team Leadership,,3
+a38972bb-b510-4181-ac4e-2a6625638dba,ef121235-d2e7-4250-bbe1-9fceb6febae7,Grant Development,,4
+5d75f41e-daf4-4732-9570-1be8b615e81e,ef121235-d2e7-4250-bbe1-9fceb6febae7,Research and Development (R&D),,5
+54068027-3926-4b05-82d9-72b3869b4358,ef121235-d2e7-4250-bbe1-9fceb6febae7,Management,,6
+950a4ed7-15d6-4552-bc0c-b9fb42001212,ef121235-d2e7-4250-bbe1-9fceb6febae7,Volunteer Management,,7
+c2177529-4d13-4539-b8fe-3e9722cbea34,ef121235-d2e7-4250-bbe1-9fceb6febae7,Nonprofits,,8
+3b61074c-c927-4a65-a7aa-5f259db430a1,ef121235-d2e7-4250-bbe1-9fceb6febae7,Public Speaking,,9
+7a3c677b-a671-416b-ba48-2b813362ec6a,59f1baa7-c47e-4120-aab8-90de02a38acf,AI and machine learning,,0
+5368d881-b31f-411b-87c5-8ab7d34374d0,59f1baa7-c47e-4120-aab8-90de02a38acf,"Hyperspectral, LiDAR and SAR remote sensing",,1
+ab50d3ed-074b-40ee-97b2-94f6bf2b6694,59f1baa7-c47e-4120-aab8-90de02a38acf,Environmental Monitoring,,2
+9b278941-5ded-44a3-a003-0b4a53f20265,59f1baa7-c47e-4120-aab8-90de02a38acf,Spatial Analysis,,3
+11e39026-195e-4238-927f-0add4ed3f14f,8f535946-b499-48c1-981b-8dc619076464,University Teaching,,0
+7771b8f7-b4e6-4989-a486-b4cc9ce6e06a,8f535946-b499-48c1-981b-8dc619076464,Educational Assessment,,1
+9a5051a2-06f9-485f-8f76-c80274c65f08,8f535946-b499-48c1-981b-8dc619076464,Talent Development,,2
+017c4bf0-0b21-486c-aab0-10fc8ec81521,8f535946-b499-48c1-981b-8dc619076464,Curriculum Development,,3
+d1987f23-99cb-464e-ad50-c53f0b1ff579,8f535946-b499-48c1-981b-8dc619076464,Growth-Oriented,,4
+1a154cbd-820d-4dd1-adfb-a2966c1fce8e,8f535946-b499-48c1-981b-8dc619076464,CRM Software,,5
+0de3eb30-8df1-4739-a5bb-3d812f2c5449,8f535946-b499-48c1-981b-8dc619076464,Building Business Partnerships,,6
+fff32c5d-e646-4f91-a544-81da16eb4030,8f535946-b499-48c1-981b-8dc619076464,Client Development,,7
+e17d91d9-f4ad-4df9-85d3-5ffea889f9ae,8f535946-b499-48c1-981b-8dc619076464,International Education,,8
+0a56e537-2e49-4e64-934b-4d7b8e75e935,8f535946-b499-48c1-981b-8dc619076464,Community Engagement,,9
+9cbfe19a-2e66-4b18-b051-32940ca601a1,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Fluid Dynamics,,0
+fb1d30ab-f3ca-403c-8849-0379d6a1c54b,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Outreach.io,,1
+49513908-e3f7-40d7-a42a-0f5f5cd59d2a,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Cooling Towers,,2
+b3a1ffab-ac84-4e8d-9b8c-4a3f29818dca,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Commissioning Support,,3
+440d78db-4984-42e5-a540-88e756789ea5,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Complaint Resolution & Escalation Handling,,4
+e76b96cc-3a65-4b41-ae0b-d702e452f5e6,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Billing & Plan Optimization,,5
+30556d14-fe5f-4fb6-a883-1966612cbfa8,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Bundled Service Sales,,6
+e774c119-32da-4e93-bbd4-f4a8cd609864,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Sales Growth,,7
+98780bac-904f-4731-b755-9cf35a5ecaee,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Service Recommendation & Personalization,,8
+3a281bd5-a273-44f1-aa00-b7dd43efbc3f,cc357ee5-52d2-4f98-b44d-f5006ad3650a,Account Management,,9
+efc35b67-b68d-482d-bad0-19d765890725,c2a51769-ff4e-41b3-a853-1177cbf076b8,Scholarly Research,,0
+c274204b-237a-48a3-ac3b-53ba00721ff0,c2a51769-ff4e-41b3-a853-1177cbf076b8,Research Collaboration,,1
+4e5d95f0-031b-4200-aa99-5406d430324e,c2a51769-ff4e-41b3-a853-1177cbf076b8,Ethics,,2
+139dba8c-128e-4e96-854a-8b51ef5e6def,c2a51769-ff4e-41b3-a853-1177cbf076b8,NVivo,,3
+ed97bec0-7141-4dd7-b043-2ac29d792456,c2a51769-ff4e-41b3-a853-1177cbf076b8,educational evaluaion,,4
+ca6b058d-a9f7-41fa-8274-f289a73ee344,c2a51769-ff4e-41b3-a853-1177cbf076b8,Educational Assessment,,5
+03bf3ccb-4900-4250-afe5-dae11c9139f6,c2a51769-ff4e-41b3-a853-1177cbf076b8,scholarship of teaching and learnign,,6
+748bfda8-c82e-4786-aa4d-7dc0fde58627,c2a51769-ff4e-41b3-a853-1177cbf076b8,Educational Consulting,,7
+4401f98c-2fc3-44fa-9c4a-89c202cdbb83,c2a51769-ff4e-41b3-a853-1177cbf076b8,Higher Education Teaching,,8
+1ed0fa5b-fdf3-4231-a069-34bce586b955,c2a51769-ff4e-41b3-a853-1177cbf076b8,University Lecturing,,9
+f490a0f0-e6ed-4418-aa71-4baa58c57dda,2fbf709e-7f3c-43b6-b7b8-e61155861101,Documentation Strategy,,0
+a1203f71-229c-4e5d-83a3-46b7e4e7db1a,2fbf709e-7f3c-43b6-b7b8-e61155861101,Talent Acquisition & Performance Management,,1
+4958851c-2d47-4188-afb6-11c60b5e248e,2fbf709e-7f3c-43b6-b7b8-e61155861101,Cross-team Collaboration,,2
+34966254-2613-403f-bb2a-3427e3f99c52,2fbf709e-7f3c-43b6-b7b8-e61155861101,Science Education,,3
+3b06eeb5-bc8b-4090-82ab-bcf4547a6dec,2fbf709e-7f3c-43b6-b7b8-e61155861101,Mathematics Instruction,,4
+c80a5ae4-f654-4985-9735-5db47b4c8f40,2fbf709e-7f3c-43b6-b7b8-e61155861101,Curriculum Development,,5
+e083d696-3c8c-43d7-9fbe-38d9adfea4c9,2fbf709e-7f3c-43b6-b7b8-e61155861101,Student Engagement,,6
+9f3bcb12-5239-437e-8ccd-dcdfcced576b,2fbf709e-7f3c-43b6-b7b8-e61155861101,Assessment & Feedback,,7
+93bac868-4fb1-4f19-ba90-835c671d9263,2fbf709e-7f3c-43b6-b7b8-e61155861101,React.js,,8
+a91ee103-ec49-4c2b-b9ac-b24e847d348e,2fbf709e-7f3c-43b6-b7b8-e61155861101,Flask,,9
+d58dd65a-0cb7-4768-bc38-92b2510f9e95,58d70489-86f5-4099-bd79-7d7a2194f586,R (Programming Language),,0
+1021466f-764f-4143-892c-25bbcc1a7b49,58d70489-86f5-4099-bd79-7d7a2194f586,Microsurgery,,1
+cc363ae4-0168-44c8-adb6-1399dd763670,58d70489-86f5-4099-bd79-7d7a2194f586,Chemogenetics,,2
+93a0bf32-9085-4391-97b4-f2d3dd46cec9,58d70489-86f5-4099-bd79-7d7a2194f586,Optogenetics,,3
+c5f284b8-247d-41b5-9076-f03d467ae6d4,58d70489-86f5-4099-bd79-7d7a2194f586,Mouse Models,,4
+ac35ff67-65fc-462f-949c-dc7204a84323,58d70489-86f5-4099-bd79-7d7a2194f586,Writing,,5
+ace8eccf-614a-4a99-a270-1c0a49ee81d0,58d70489-86f5-4099-bd79-7d7a2194f586,Manuscript,,6
+38b730cf-396a-4431-b073-d328a2ce643b,58d70489-86f5-4099-bd79-7d7a2194f586,Editing,,7
+ba77a3ee-efce-4807-ade2-54d9de291cf3,58d70489-86f5-4099-bd79-7d7a2194f586,Computer Literacy,,8
+94cc6445-4f97-4045-9b8c-ba7008dcaea4,58d70489-86f5-4099-bd79-7d7a2194f586,Academic Editing,,9
+4cafa90c-00cb-48f9-bf0e-3da6361afceb,e754b33f-1a31-420f-b17a-1c21838a82dd,Teaching,,0
+35e9d730-1696-4271-a9c1-d66eddde630f,e754b33f-1a31-420f-b17a-1c21838a82dd,Leadership,,1
+1d5af444-3a3b-4668-8c5b-d34feb5df142,e754b33f-1a31-420f-b17a-1c21838a82dd,Research Skills,,2
+63a84f5a-60f8-4d75-a86b-fe983f9e46d8,b711d973-3252-49f4-a51f-d2a4eb9d300c,Homework Help,,0
+de223bee-049e-46ba-bbe1-c47127bdf237,b711d973-3252-49f4-a51f-d2a4eb9d300c,One-on-one Instruction,,1
+78fcdbb1-0bf0-4349-b61b-3caa2a7f19d6,b711d973-3252-49f4-a51f-d2a4eb9d300c,Individualized Instruction,,2
+7edad817-27db-4d22-b459-684d3a1d2f3c,b711d973-3252-49f4-a51f-d2a4eb9d300c,Autism Spectrum Disorders,,3
+734e62ca-fd54-499a-8576-8e3bc3231979,b711d973-3252-49f4-a51f-d2a4eb9d300c,Public Outreach,,4
+0548cb7f-7ad2-4779-ae03-1e6e0954f0e4,b711d973-3252-49f4-a51f-d2a4eb9d300c,Corporate Outreach,,5
+3a7c1e9b-8ac6-4428-b5c3-891fe61f6101,b711d973-3252-49f4-a51f-d2a4eb9d300c,Community Outreach,,6
+b9e6d969-7723-4c19-ae91-70d7278b0645,b711d973-3252-49f4-a51f-d2a4eb9d300c,Social Outreach,,7
+163a1786-0b00-4c21-924d-b5660dc7d098,b711d973-3252-49f4-a51f-d2a4eb9d300c,Online Content Creation,,8
+fd500f24-b822-4dbd-abf8-572890759b42,e26978e5-af18-4929-be79-e444c5aad696,Event Management,,0
+cc7351be-aaec-45f2-be98-dfc916b06406,e26978e5-af18-4929-be79-e444c5aad696,Budgeting,,1
+5e06a835-294a-4ba2-a3be-a859200b7fde,e26978e5-af18-4929-be79-e444c5aad696,Budget Management,,2
+4c50f6d3-a6d0-4c31-a88f-44f5342e179e,e26978e5-af18-4929-be79-e444c5aad696,Grant Writing,,3
+dcc997bf-a72f-4c8b-8a02-6a446c26cf49,e26978e5-af18-4929-be79-e444c5aad696,Fundraising,,4
+62a1c6a0-c4da-4293-9f3d-e2a2aef464ff,e26978e5-af18-4929-be79-e444c5aad696,Teamwork,,5
+e5438897-3062-44e4-8d48-03c13ea7c281,e26978e5-af18-4929-be79-e444c5aad696,Leadership Development,,6
+7c9d392d-6297-47c1-af47-2cd21ecbecfe,e26978e5-af18-4929-be79-e444c5aad696,Educational Leadership,,7
+88b6c996-ce39-4bb9-a79f-1eb16d2f2138,e26978e5-af18-4929-be79-e444c5aad696,Clinical Research,,8
+35c73435-4aba-4633-b14e-4acf934be731,e26978e5-af18-4929-be79-e444c5aad696,Medical Genetics,,9
+e52af360-f837-4a1e-8623-31dd9cc2ef0b,f1d407b4-9c1c-45dc-95f5-1500ce248150,Creativity and Innovation,,0
+1fbe4c7b-cfaa-4a1a-b2c3-bf7b22a82085,f1d407b4-9c1c-45dc-95f5-1500ce248150,Problem Solving,,1
+f39eb58b-319c-4d35-8bcc-6588022586f8,f1d407b4-9c1c-45dc-95f5-1500ce248150,Entrepreneurial Thinking,,2
+d9a1b0c9-32c6-4fdc-b091-e9eade3383f0,f1d407b4-9c1c-45dc-95f5-1500ce248150,Research Design,,3
+17a272a6-6a96-41ad-8715-35b26687a6d0,f1d407b4-9c1c-45dc-95f5-1500ce248150,Online Content Creation,,4
+4e661ac4-8a88-4066-97f2-bf9dbee44801,f1d407b4-9c1c-45dc-95f5-1500ce248150,Networking,,5
+4d5e783b-c1bd-47cd-86af-17c50e6610bb,f1d407b4-9c1c-45dc-95f5-1500ce248150,Canva,,6
+58cc3a24-103c-4bfa-9589-36245a5baa9d,f1d407b4-9c1c-45dc-95f5-1500ce248150,Creative Writing,,7
+63ec9621-bedd-41af-a05a-47a221f5d030,f1d407b4-9c1c-45dc-95f5-1500ce248150,Leadership,,8
+a772b292-39ab-420e-b046-71487c9429db,f1d407b4-9c1c-45dc-95f5-1500ce248150,Time Management,,9
+dca4dcf9-f3aa-443e-a6df-fc4638e3473b,b494b370-173c-43b3-bff1-34696fd2c960,Emocodes,,0
+3e9cf50a-332b-43c8-93b0-c3880e49a9c5,b494b370-173c-43b3-bff1-34696fd2c960,MNE Python (for EEG processing and analysis),,1
+66922cb2-dc5d-4ab1-9015-5d85b1db7243,b494b370-173c-43b3-bff1-34696fd2c960,Pandas (Software),,2
+d8711662-ecec-41e7-87a0-1649c564dcc9,b494b370-173c-43b3-bff1-34696fd2c960,Python (Programming Language),,3
+0487c39c-3078-483a-a389-4d6ee815611f,b494b370-173c-43b3-bff1-34696fd2c960,Clinical Research,,4
+268902bb-f781-4b3a-9d8d-90ce76e94aa3,b494b370-173c-43b3-bff1-34696fd2c960,R (Programming Language),,5
+58c97b63-9a65-4ac9-816d-1fc60f2b8b3d,b494b370-173c-43b3-bff1-34696fd2c960,Data Entry,,6
+e5fa9b4c-dca8-4e98-9f8a-87772f0a15bb,b494b370-173c-43b3-bff1-34696fd2c960,MRI,,7
+b217f076-7ceb-4456-9644-975c921f498a,b494b370-173c-43b3-bff1-34696fd2c960,EEG,,8
+444e6a41-b618-40a0-8fd3-6dcb32508b90,b494b370-173c-43b3-bff1-34696fd2c960,Computer Science,,9
+01306656-1995-48b8-8127-b9eed5ed27b5,2cb70037-13e6-419a-ba19-e50d1faf70ca,Analytical Skills,,0
+8c181e96-01ea-40dc-bfd2-e92cc905692c,2cb70037-13e6-419a-ba19-e50d1faf70ca,Research Collaboration,,1
+cf77bf95-f69b-4ecf-ba02-7811ac8bf427,2cb70037-13e6-419a-ba19-e50d1faf70ca,Research Skills,,2
+f4420301-1e18-45a0-a0b8-558c38d18326,2cb70037-13e6-419a-ba19-e50d1faf70ca,Problem Solving,,3
+088d1765-5796-4b4a-a35b-4d581a070693,2cb70037-13e6-419a-ba19-e50d1faf70ca,Statistical Data Analysis,,4
+6ec813fd-48d0-4832-be5b-a4aa20b72d27,2cb70037-13e6-419a-ba19-e50d1faf70ca,Scientific Experimentation,,5
+73bdc118-73f0-415a-8e6a-efeb9eed06b6,2cb70037-13e6-419a-ba19-e50d1faf70ca,Leadership,,6
+26a59e17-4c13-4b4b-a437-a4287f09b0a0,2cb70037-13e6-419a-ba19-e50d1faf70ca,Communication,,7
+3f816dbe-59d4-4aae-ba1d-06a85686eb07,2cb70037-13e6-419a-ba19-e50d1faf70ca,Tutoring,,8
+20729897-58a6-4705-8627-116e0465e12c,2cb70037-13e6-419a-ba19-e50d1faf70ca,TensorFlow,,9
+e825f114-3183-465f-8cce-6b2281f4095c,ae8f2298-3f48-4842-a28f-26d5b99d89da,Academic Research,,0
+e3aa6316-3e5b-4c49-b739-cca316637392,ae8f2298-3f48-4842-a28f-26d5b99d89da,Medical Research,,1
+47f0b9c6-67fc-48ea-a89c-267fbacaa226,ae8f2298-3f48-4842-a28f-26d5b99d89da,Data Analysis,,2
+52b81114-7ccf-410a-926f-3c587c5d883e,ae8f2298-3f48-4842-a28f-26d5b99d89da,Computational Neuroscience,,3
+f1dd3996-8577-470b-8d99-7b5198321de4,ae8f2298-3f48-4842-a28f-26d5b99d89da,Behavioral Neuroscience,,4
+377c1641-28c1-4d76-b463-3fd2a69587f5,ae8f2298-3f48-4842-a28f-26d5b99d89da,Analytical Skills,,5
+99c88b20-fca1-4e37-aba8-cbaf2fde6b5d,ae8f2298-3f48-4842-a28f-26d5b99d89da,Presentation Skills,,6
+2c16c867-8d0f-4660-b447-9ee0831096df,ae8f2298-3f48-4842-a28f-26d5b99d89da,English,,7
+811e4091-deff-4577-95ec-0eb64e0d20b2,ae8f2298-3f48-4842-a28f-26d5b99d89da,Research Skills,,8
+cf8f5edc-cd18-44b5-ab84-67903854def2,ae8f2298-3f48-4842-a28f-26d5b99d89da,Communication,,9
+4490cd95-d34a-44ac-aee4-905bad062e08,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,Collaborative Problem Solving,,0
+8b92b575-2ca2-4d3d-afb9-f9cb69075bb9,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,constructive dialogue,,1
+ca195dba-036c-43d5-88db-5333aa352576,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,R (Programming Language),,2
+97a966c5-18bd-4ca1-a8ce-cabb0792971d,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,Laboratory Skills,,3
+74e46310-206f-499b-8573-10372138350a,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,Science Communication,,4
+a7fa821f-edbe-4a0a-a671-d8188352bf02,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,Data Extraction,,5
+585af8f3-16c5-403e-a78a-5d51678b97d5,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,Collaborative Teamwork,,6
+af96f6b2-ba59-4181-9ca6-53e803e30b26,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,Research Design & Experimental Planning,,7
+a3e1ea72-da29-4062-b37e-de368c3920e0,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,Microsoft Excel,,8
+9a10b0b4-73c9-427f-8864-d162b4f5f571,6d6e37bd-f761-4b38-a0ce-3b82e49418d2,Literature Review & Scientific Reading,,9
+6ea668e6-00b7-4128-9cbe-5ef4e0e48539,c6500b0b-7864-43d8-a930-b89d673c3749,Teaching,,0
+44efe072-f7fb-4de6-a3c1-8da092c47ace,c6500b0b-7864-43d8-a930-b89d673c3749,Leadership,,1
+662b330f-ec24-4f29-8931-c79d419a25e4,c6500b0b-7864-43d8-a930-b89d673c3749,Research Skills,,2
+a706171b-a8fb-4953-83f7-6f42ba679463,5793b1d3-2b8e-4cbe-9935-810433e8f4e3,Advertising,,0
+d90b08da-cf2c-4f11-a1d4-a97e9cb36af0,5793b1d3-2b8e-4cbe-9935-810433e8f4e3,Leadership,,1
+86412bfd-23e9-40f2-82e4-826c79e9b7d1,5793b1d3-2b8e-4cbe-9935-810433e8f4e3,Communication,,2
+2a14e844-21ba-446b-93d1-7ae1a6d7f687,5793b1d3-2b8e-4cbe-9935-810433e8f4e3,Clinical Research,,3
+d1eb456e-90f3-4448-8d6b-18c7de41af22,5793b1d3-2b8e-4cbe-9935-810433e8f4e3,Writing,,4
+ed416ae3-0ea5-4c15-bb67-f21433b90851,5793b1d3-2b8e-4cbe-9935-810433e8f4e3,Team Leadership,,5
+f5cc8e6e-47e8-43d6-941e-aed86e6b7cf2,5793b1d3-2b8e-4cbe-9935-810433e8f4e3,Project Management,,6
+faf41c2e-7370-4860-97c2-ed5cf07a0ab9,5793b1d3-2b8e-4cbe-9935-810433e8f4e3,Neuroscience,,7
+b46637ad-5c90-4e82-93a5-04db4c825b02,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,Written Communication,,0
+aacb0098-df7a-46db-9d76-c69184c9d5ef,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,Debugging,,1
+c62e9615-d495-482f-97ad-b8c58a20fc9b,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,Database Management System (DBMS),,2
+23046ee6-4d59-4bca-8e5a-ec4dfedaedec,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,Algorithms,,3
+10cd19a6-a21d-41b3-aae7-d70c6a3eb40b,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,React.js,,4
+c195626a-609d-45be-ac67-f1c81bbaf468,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,Programming,,5
+fe5b3888-d575-4325-b903-5b9df8efc6a2,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,Object Oriented Design,,6
+d579e81e-c110-4310-876e-882d7fd0d9f1,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,C++,,7
+f49e7735-687b-41d7-996d-ade90c6e5769,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,Pandas (Software),,8
+d3b44ee4-8ca6-4bc6-993a-c11af8fbee08,a281f3de-f7fc-440a-b069-ba1c6f5eb35b,NumPy,,9
+b8c965ac-e7f8-43c8-af20-5304ff2e4bef,ac93a9ce-4bc9-4747-b429-b95943d220d9,Community Outreach,,0
+97e7efb6-0fa7-4821-bcef-961013a37733,ac93a9ce-4bc9-4747-b429-b95943d220d9,Educational Outreach,,1
+8ed877fa-dab4-480b-a902-e38e3c9ebabc,ac93a9ce-4bc9-4747-b429-b95943d220d9,Event Planning,,2
+54442064-430b-4a06-8b42-94e4cbc93c77,ac93a9ce-4bc9-4747-b429-b95943d220d9,Data Analysis,,3
+66716384-2475-4d5a-a079-e6471b2f2459,ac93a9ce-4bc9-4747-b429-b95943d220d9,Analytical Skills,,4
+761d5496-d9ed-4ef9-969d-88ddd9618869,ac93a9ce-4bc9-4747-b429-b95943d220d9,Adobe Photoshop,,5
+6f26efc4-405f-494e-887a-cb48a1f57a9b,ac93a9ce-4bc9-4747-b429-b95943d220d9,Research Skills,,6
+b6d4b6bd-5adb-47df-8654-e9b94aed4e46,ac93a9ce-4bc9-4747-b429-b95943d220d9,Communication,,7
+e2640c39-8c28-4b7b-9a34-b51bf179fdaf,d06308e7-14c8-480f-b2df-25998cba800b,ArcGIS Products,,0
+efc61fb9-097d-4546-8b50-47781b1f803b,d06308e7-14c8-480f-b2df-25998cba800b,Statistics,,1
+99de70cb-a594-4dc7-b8af-c50e0a214c72,d06308e7-14c8-480f-b2df-25998cba800b,Research Skills,,2
+dd50f6c6-6ed5-45cb-b6e3-b8ed77aff3bf,d06308e7-14c8-480f-b2df-25998cba800b,Field Work,,3
+46f5a0fa-1f14-4076-8d97-b7f732826ed9,4f077cb1-7072-4a1f-916c-a8e7a0b19697,Event Planning,,0
+6a53700e-18f5-4a44-b2d3-bafbf03ed2e3,4f077cb1-7072-4a1f-916c-a8e7a0b19697,Education,,1
+efda3fab-154f-4400-885f-dca5dace8050,4f077cb1-7072-4a1f-916c-a8e7a0b19697,Research Support,,2
+1ccc87c9-e27c-42bc-b25e-d6ea9bbdef99,4f077cb1-7072-4a1f-916c-a8e7a0b19697,Academic Research,,3
+aeae5984-9272-4572-867f-39c82883e50f,4f077cb1-7072-4a1f-916c-a8e7a0b19697,Microsoft Office,,4
+5621e734-92e0-4bc2-be8a-c0c3f4ab4c13,4f077cb1-7072-4a1f-916c-a8e7a0b19697,Teamwork,,5
+0bc5523d-ba7f-42a2-a5bb-9db0fa5e267d,4f077cb1-7072-4a1f-916c-a8e7a0b19697,Attention to detail and ability to work accurately,,6
+ed4dc94f-7ea9-4a74-a0a7-bd6283adbbb7,4f077cb1-7072-4a1f-916c-a8e7a0b19697,Organization and leadership skills,,7
+89d99e69-d740-4f87-8149-273dac0be4c2,4f077cb1-7072-4a1f-916c-a8e7a0b19697,Strong written and verbal communication,,8
+db196053-eeb1-4458-9a03-e612760ff48f,5f89e53a-fad1-4b57-a8e0-b4627dc6d120,Team Leadership,,0
+3deb539b-ee13-4c1b-8677-17e378da7d78,5f89e53a-fad1-4b57-a8e0-b4627dc6d120,Management,,1
+b829c009-4e22-482e-86cc-53b97c1c013c,5f89e53a-fad1-4b57-a8e0-b4627dc6d120,Clinical Services,,2
+7d365c91-e09d-44f2-8c4e-2ef6fb94ee50,5f89e53a-fad1-4b57-a8e0-b4627dc6d120,Clinical Support,,3
+ed94d312-5670-4114-be6c-6d347504e32e,5f89e53a-fad1-4b57-a8e0-b4627dc6d120,Customer Service,,4
+8bdef288-5903-4ec6-a4b7-7007aa8d8483,5f89e53a-fad1-4b57-a8e0-b4627dc6d120,Communication,,5
+0b5630e9-13a3-4296-aec8-a4de7fa76af4,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,Behavioural testing of animal models,,0
+9c0c844f-cdea-4f37-9089-10948e3e0678,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,Swim Instruction (All Levels),,1
+f854a354-2ac0-4e3e-b2e3-73b9a8ef3869,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,First Aid Training,,2
+d886766f-92f4-4292-bf74-e82a3f73b604,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,Cardiopulmonary Resuscitation (CPR),,3
+f38369c1-58e1-4915-9da0-9e97e16623fd,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,Youth Coaching,,4
+5f393995-56b6-42aa-85d2-2277b6cb2fcf,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,Risk Assessment,,5
+86455a28-d7a8-49eb-af1e-458390558996,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,Team Building,,6
+67cbbbd0-37ab-4772-8d6d-3ddb52cbeb8b,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,Athlete Motivation,,7
+9a203308-fc44-46b9-b581-c10963374a44,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,Immunohistochemisty,,8
+7d9d54fb-85ee-48ef-8d3f-534aed76fcdb,89c4088b-73ff-4c4d-bcc1-2a2d1318a9dd,Confocal Microscopy,,9
+6d616076-e8a3-4d0f-b61d-d1896b3697ed,664d7fa2-f7f9-4959-a948-fe144f628b7e,MRI,,0
+3115d540-31fe-4fd4-ae42-86d3d0c49267,664d7fa2-f7f9-4959-a948-fe144f628b7e,Parkinson's Disease,,1
+e2c99273-ac77-4326-9543-04cd24a07732,664d7fa2-f7f9-4959-a948-fe144f628b7e,MATLAB,,2
+7d12da50-1786-4714-8dbf-fdebc2844134,664d7fa2-f7f9-4959-a948-fe144f628b7e,Cognitive Neuroscience,,3
+ddcc8f99-da0f-46b7-8c79-9bbe75e6466e,664d7fa2-f7f9-4959-a948-fe144f628b7e,Neuroscience,,4
+f802b97d-db41-4421-8565-c9ea474d24ca,664d7fa2-f7f9-4959-a948-fe144f628b7e,Physics,,5
+ba4321e9-4bc1-4807-9662-283b2edfe1e4,664d7fa2-f7f9-4959-a948-fe144f628b7e,Teaching,,6
+2166222e-e4d1-4dde-b4e7-358cd41ba327,664d7fa2-f7f9-4959-a948-fe144f628b7e,Epilepsy,,7
+81673708-3c93-4244-89e4-f0d70b8c6ff5,664d7fa2-f7f9-4959-a948-fe144f628b7e,Neuroimaging,,8
+d5b55199-4797-4910-9c75-96a8728a3849,664d7fa2-f7f9-4959-a948-fe144f628b7e,Python (Programming Language),,9
+dfeed17a-1d1e-4014-b969-a707ddc70d06,1813974b-6d56-422b-9f39-0248a5ad79ab,Clinical Data Management,,0
+2f8390bd-d0ba-4755-bb19-8f3062b796e9,1813974b-6d56-422b-9f39-0248a5ad79ab,Electronic Data Capture (EDC),,1
+9a58df68-6017-4e99-bceb-61e1afb2604e,1813974b-6d56-422b-9f39-0248a5ad79ab,Leadership,,2
+d62a0720-29cf-4263-ae98-83a0f773297d,1813974b-6d56-422b-9f39-0248a5ad79ab,Classroom Management,,3
+8516392d-c60c-4a0c-a6cf-934f0229cdeb,1813974b-6d56-422b-9f39-0248a5ad79ab,Strategic Planning,,4
+f1e8ec74-250f-4d35-b2fc-d7ec7b3c7c27,1813974b-6d56-422b-9f39-0248a5ad79ab,Problem Solving,,5
+a0d36bf1-f19a-4923-80f9-44ed8a119814,1813974b-6d56-422b-9f39-0248a5ad79ab,Research Skills,,6
+ed9092fc-11be-40eb-b45e-83ae00baa56b,1813974b-6d56-422b-9f39-0248a5ad79ab,Scientific Writing,,7
+2e4d7194-a1a6-4504-9a4b-d73bdac5bcd1,1813974b-6d56-422b-9f39-0248a5ad79ab,Teaching,,8
+44b06604-a639-4494-8c35-610b9f8437ba,1813974b-6d56-422b-9f39-0248a5ad79ab,Communication,,9
+857ceb57-b81e-4d07-9c8d-16a7a9594e7e,f74db81b-4eeb-4b17-8762-32bc97ce4438,Clinical Study Management,,0
+278824c6-5ba3-4523-a8aa-5b435aba38f4,f74db81b-4eeb-4b17-8762-32bc97ce4438,"Laboratory Skills (Pipetting, Titrating, Streaking & Straining)",,1
+920138ea-1c69-4b33-863f-ac25d8405366,f74db81b-4eeb-4b17-8762-32bc97ce4438,"Programing Software (Python, C++, HTML, Java)",,2
+4fa252f3-e505-4c0d-8802-fa4a5c06dcb3,f74db81b-4eeb-4b17-8762-32bc97ce4438,"Microsoft Office (Excel, Word, PowerPoint, Outlook, OneNote)",,3
+7d4a22b0-446d-4c7b-9b47-75ff14e76047,d99f4fbc-49ae-4e26-80b5-23ae02c87015,Skills,,0
+176143a8-4289-4f81-8eef-59cfaff18294,d99f4fbc-49ae-4e26-80b5-23ae02c87015,Academic Research,,1
+b0205b49-7d21-4419-bfb4-04c2fd5bdd43,a6e2ee49-40fe-472f-8d64-2d12f050c853,Cognitive Neuroscience,,0
+8f09a8d0-6b16-44cb-9966-6c51536d71da,a6e2ee49-40fe-472f-8d64-2d12f050c853,Academic Research,,1
+08256a82-d9b1-4220-93a1-b0c90e9fc9ab,a6e2ee49-40fe-472f-8d64-2d12f050c853,Electrophysiology,,2
+d75e80bb-55cd-439a-9f50-7cf9f0f9bb48,a6e2ee49-40fe-472f-8d64-2d12f050c853,Movement Disorders,,3
+0135cece-ffcb-4471-9194-aa343f51af7b,a6e2ee49-40fe-472f-8d64-2d12f050c853,Recruiting,,4
+03413a0d-f55a-4aab-a56d-90f7467e78b4,a6e2ee49-40fe-472f-8d64-2d12f050c853,Transcranial Magnetic Stimulation,,5
+790ca49f-024f-47e2-bf50-32b76081f6d9,a6e2ee49-40fe-472f-8d64-2d12f050c853,Computational Neuroscience,,6
+16bec604-24ce-4de0-a505-76088b2800c3,a6e2ee49-40fe-472f-8d64-2d12f050c853,Transcribing,,7
+ae251676-5f06-4caa-9534-a1937283f324,a6e2ee49-40fe-472f-8d64-2d12f050c853,MATLAB,,8
+9e590cac-641f-4be8-9a08-997d2e305eca,a6e2ee49-40fe-472f-8d64-2d12f050c853,Statistics,,9
+e3c153b9-1673-4fbe-9a97-d9fa7b41f1ee,e7267525-c18f-41da-9bec-eb4868c93c8b,Research Skills,,0
+25a5e28b-76b0-4802-a736-15a5aea4e7c3,e7267525-c18f-41da-9bec-eb4868c93c8b,Communication,,1
+8b929371-d164-45c1-844a-38eb6daa4049,e7267525-c18f-41da-9bec-eb4868c93c8b,Team Leadership,,2
+13f6b45c-64e6-4832-a55b-c39943aebc64,e7267525-c18f-41da-9bec-eb4868c93c8b,Laboratory Techniques,,3
+0774125b-d20a-4726-acdb-f7c915e09554,e7267525-c18f-41da-9bec-eb4868c93c8b,Powerlifting,,4
+af43e0d9-881f-4f2b-98ee-f8a64cca9587,1e87e535-72b9-4cd1-a45b-7388a40664aa,Satisfaction client,,0
+c8ebf08b-662a-4eaf-b154-ddd819a37c2a,1e87e535-72b9-4cd1-a45b-7388a40664aa,Connaissances en informatique,,1
+dde24a96-ed17-4151-b037-407cb4a9ca90,1e87e535-72b9-4cd1-a45b-7388a40664aa,Administration,,2
+53ddff10-e334-4d1b-b922-470d28b4cca0,1e87e535-72b9-4cd1-a45b-7388a40664aa,Business-to-Business (BtoB),,3
+e8caaadc-106e-4f09-9a80-dcb615e22a31,1e87e535-72b9-4cd1-a45b-7388a40664aa,Français,,4
+64f3b1d7-43b6-49c7-81ee-f63955b5a071,1e87e535-72b9-4cd1-a45b-7388a40664aa,Adaptation,,5
+d4f5b111-c521-4b14-bf09-e144cea22b85,1e87e535-72b9-4cd1-a45b-7388a40664aa,Marketing,,6
+e60c96aa-b7d8-469f-8485-e080f1122fd6,1e87e535-72b9-4cd1-a45b-7388a40664aa,Gastro-entérologie,,7
+879eef74-b448-4f50-bffd-5e5833cdc455,1e87e535-72b9-4cd1-a45b-7388a40664aa,Développement de relations,,8
+c2aed29f-6825-46c2-83dc-19391e1674da,1e87e535-72b9-4cd1-a45b-7388a40664aa,Conseil en vente,,9
+b9a8cfef-1c2c-4982-8137-c9b1e9d9364d,8da88d24-84cc-470f-b23d-5df08100d0f9,Western Blotting,,0
+58515ec4-22ab-44f6-b5aa-457c5f5afaa4,8da88d24-84cc-470f-b23d-5df08100d0f9,Real-Time Polymerase Chain Reaction (qPCR),,1
+f0975e49-c6c6-4bc8-8842-16f0bf360d24,8da88d24-84cc-470f-b23d-5df08100d0f9,ELISA,,2
+dba41e6d-1816-4303-970d-72139bbe3d32,8da88d24-84cc-470f-b23d-5df08100d0f9,Luciferase Assay,,3
+d0844cb6-4aca-4b57-ac9c-37a3910ed9fa,8da88d24-84cc-470f-b23d-5df08100d0f9,Data Analysis,,4

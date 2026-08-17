@@ -829,9 +829,9 @@ def _portable_photo_source(photo_url: str) -> str:
     try:
         path.relative_to(_STATIC_DIR)
     except ValueError:
-        return photo_url
+        return ""
     if not path.is_file():
-        return photo_url
+        return ""
 
     mime_type = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
     encoded = base64.b64encode(path.read_bytes()).decode("ascii")
@@ -850,8 +850,8 @@ def render_avatar_html(name: str, size: int = 60, photo_url: str | None = None) 
         f"overflow:hidden;flex-shrink:0;background:{color};"
         "display:inline-flex;align-items:center;justify-content:center;position:relative;"
     )
-    if photo_url:
-        photo_source = _portable_photo_source(photo_url)
+    photo_source = _portable_photo_source(photo_url) if photo_url else ""
+    if photo_source:
         # Layered: initials as background, photo overlaid; hide photo on error.
         return (
             f'<div class="hbi-avatar hbi-avatar-portrait" '

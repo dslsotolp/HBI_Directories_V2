@@ -21,6 +21,13 @@ _CANONICAL_PROFILE_NAMES = {
 # showing a known incorrect portrait while preserving every other photo.
 _SUPPRESSED_PROFILE_PHOTO_IDS = {
     "192f55da-ccb8-4044-aaa6-85ecbb975620",  # M. Reza Zamani
+    "05294035-6509-4928-8f61-52aaa10ad166",  # Randall Marusyk
+    "2c06bb8b-d6a1-4741-8970-4ce0860de006",  # Ehsan Hakimi
+    "41d3dad9-2a92-40ad-8922-3ec7fd60894a",  # Yasmeen Naseem
+    "835db8ff-2a81-4470-a51f-3a9567827e6b",  # Rafee Al Ahsan
+    "cc357ee5-52d2-4f98-b44d-f5006ad3650a",  # Indrajit Prajapati
+    "64c97947-aec6-4706-9332-cfbb7267a75e",  # Jaanya Lal
+    "6da8654b-0024-4612-b1bc-7bb110709506",  # Badee Khnaijer
 }
 
 

@@ -17,6 +17,12 @@ _CANONICAL_PROFILE_NAMES = {
     "c482b87a-e1fb-469c-bc13-0fe781d721cb": "Karla Batista García-Ramó",
 }
 
+# Reviewed photo suppressions are intentionally profile-specific. This avoids
+# showing a known incorrect portrait while preserving every other photo.
+_SUPPRESSED_PROFILE_PHOTO_IDS = {
+    "192f55da-ccb8-4044-aaa6-85ecbb975620",  # M. Reza Zamani
+}
+
 
 def _repair_mojibake(value):
     """Repair UTF-8 text that was accidentally decoded as Latin-1/CP1252."""
@@ -45,6 +51,11 @@ def load_li_profiles() -> pd.DataFrame:
         lambda row: _CANONICAL_PROFILE_NAMES.get(row["profile_id"], row["full_name"]),
         axis=1,
     )
+    if "photo_path" in profiles.columns:
+        profiles.loc[
+            profiles["profile_id"].isin(_SUPPRESSED_PROFILE_PHOTO_IDS),
+            "photo_path",
+        ] = ""
     return profiles
 
 

@@ -250,23 +250,39 @@ def group_profile_positions(positions) -> list[dict[str, object]]:
         related = _unique_position_values(
             [row.get("department"), row.get("faculty"), row.get("institution")]
         )
+        raw_text = _clean_position_value(row.get("raw_text"))
+        # Some comma-containing organization names were split across the title
+        # and department columns by older extracts. Prefer the preserved raw
+        # value when it contains every split fragment, so the organization stays
+        # intact and remains paired with the role immediately above it.
+        reconstructed_affiliation = bool(
+            raw_text
+            and title
+            and raw_text != title
+            and title.casefold() in raw_text.casefold()
+            and related
+            and all(value.casefold() in raw_text.casefold() for value in related)
+            and _AFFILIATION_NAME_PATTERN.search(raw_text)
+        )
+        display_title = raw_text if reconstructed_affiliation else title
+        display_related = [] if reconstructed_affiliation else related
         is_role = bool(
-            title
+            display_title
             and (
-                _POSITION_ROLE_PATTERN.search(title)
-                or not _AFFILIATION_NAME_PATTERN.search(title)
+                _POSITION_ROLE_PATTERN.search(display_title)
+                or not _AFFILIATION_NAME_PATTERN.search(display_title)
             )
         )
         if is_role:
             if current_role and not current_role_used:
                 groups.append({"title": current_role, "details": []})
-            current_role = title
-            current_role_used = bool(related)
-            if related:
-                groups.append({"title": title, "details": related})
+            current_role = display_title
+            current_role_used = bool(display_related)
+            if display_related:
+                groups.append({"title": display_title, "details": display_related})
             continue
 
-        details = _unique_position_values([title, *related])
+        details = _unique_position_values([display_title, *display_related])
         if not details:
             continue
         if current_role:

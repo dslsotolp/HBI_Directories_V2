@@ -781,3 +781,50 @@ b9a8cfef-1c2c-4982-8137-c9b1e9d9364d,8da88d24-84cc-470f-b23d-5df08100d0f9,Wester
 f0975e49-c6c6-4bc8-8842-16f0bf360d24,8da88d24-84cc-470f-b23d-5df08100d0f9,ELISA,,2
 dba41e6d-1816-4303-970d-72139bbe3d32,8da88d24-84cc-470f-b23d-5df08100d0f9,Luciferase Assay,,3
 d0844cb6-4aca-4b57-ac9c-37a3910ed9fa,8da88d24-84cc-470f-b23d-5df08100d0f9,Data Analysis,,4
+9db4883b-5a51-4428-801a-a9a092386d60,f67d4ef6-7478-48a3-b662-e95c80bb7185,Interpersonal Skills,,9
+7455c2ba-af51-4e51-b798-8aa6293216b5,56a1930b-86d2-43fd-8ba5-cf49dddd7b32,Academic Research,,10
+c9a26325-8d4e-4933-aec8-6bcbff60e1b3,28009f57-6b6a-4100-9a98-3408978540af,Leadership,,0
+61ffb885-47b8-4a89-81bb-6a6b8a7af6ba,28009f57-6b6a-4100-9a98-3408978540af,Strategic Leadership,,1
+14b5ae66-5432-4207-8d1c-668a3ef380f3,28009f57-6b6a-4100-9a98-3408978540af,Board of Directors,,2
+da964f57-f5eb-4bef-846b-707a3287886b,030f8cde-f2ae-4824-8f5b-98102638bf51,Working with Children,,10
+abef4840-ddfa-4044-8114-2531ceb03117,030f8cde-f2ae-4824-8f5b-98102638bf51,Problem Solving,,11
+b86efa49-6f85-4309-873d-3631393314df,030f8cde-f2ae-4824-8f5b-98102638bf51,Collaborative Leadership,,12
+47dbc5d6-1371-43c1-9e8d-d9309c756308,030f8cde-f2ae-4824-8f5b-98102638bf51,Initiative,,13
+036c1d5a-9180-4e10-8e5f-a952f56ac296,2639593a-850c-4dcb-be8b-e338bccf7a2f,Python (Programming Language),,10
+d63220c7-8e3a-44ce-aeaa-122d9b720c4f,2639593a-850c-4dcb-be8b-e338bccf7a2f,C (Programming Language),,11
+0068f351-6fb9-4ffb-bf1e-0389aca42559,2639593a-850c-4dcb-be8b-e338bccf7a2f,Mathematics,,12
+456f8b5a-bc51-4f89-83ad-bab38a33c358,2639593a-850c-4dcb-be8b-e338bccf7a2f,Microsoft Excel,,13
+1ae59b23-303f-479e-a216-0cd5854d441d,2639593a-850c-4dcb-be8b-e338bccf7a2f,Communication,,14
+fa0def53-bc65-4bc1-9e18-5e1aac35d821,1d700dd9-938f-4cad-b67b-c643c0c6aa67,Applied Mathematics,,0
+e2d0799f-807b-4c60-99fe-44dc8a981b8b,1d700dd9-938f-4cad-b67b-c643c0c6aa67,Deep Learning,,1
+12a09f43-e6da-44ff-8274-ccb48ae70fa5,1d700dd9-938f-4cad-b67b-c643c0c6aa67,Medical AI,,2
+f82c43af-ef38-4f6e-ba2c-545c463e8b65,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Neuroscience,,9
+2b5582e8-fcf2-4954-8b1d-be4a8d5ca9a6,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Public Speaking,,10
+8d95b626-d0ec-415d-b603-62f6e8e74d5e,b3fcb97c-7759-4234-98aa-0272cc1c65ef,Leadership,,11
+0feacc6f-d070-4e23-9785-04215b42f0e4,8f535946-b499-48c1-981b-8dc619076464,Sales,,10
+4f442193-0cb3-47ff-bcf6-d6d80cc00461,8f535946-b499-48c1-981b-8dc619076464,Communication,,11
+3b964b0b-ecc3-43ef-89c8-c405e7287a32,8f535946-b499-48c1-981b-8dc619076464,Marketing Strategy,,12
+b299e5bc-81a7-44b1-80a4-de6b60a32291,835db8ff-2a81-4470-a51f-3a9567827e6b,University Teaching,,0
+f089eab5-910f-478d-aea5-0c20f4a0489d,835db8ff-2a81-4470-a51f-3a9567827e6b,Research,,1
+8fe4d917-7a7b-47af-9de3-dc85a0ca987d,835db8ff-2a81-4470-a51f-3a9567827e6b,Academic Publishing,,2
+036cdb76-b893-41e6-99d5-592ad3ea2271,835db8ff-2a81-4470-a51f-3a9567827e6b,Computer Science,,3
+e0668785-a400-4bb0-90fb-60833bf3c710,835db8ff-2a81-4470-a51f-3a9567827e6b,Electrical Engineering,,4
+5a0f34c1-dec1-4c38-9aed-ed1195186b82,bba2f0fd-61b9-44c9-913f-539995be1bb0,Bioengineering Design Thinking,,0
+a9fbbaf2-3d24-466d-ba59-fb015413d99d,bba2f0fd-61b9-44c9-913f-539995be1bb0,Biotechnology,,1
+526126bd-9f3a-4c07-9239-1a9e61fc0d58,bba2f0fd-61b9-44c9-913f-539995be1bb0,Advanced Receptor Engineering,,2
+632c100f-121b-4cd1-b899-755b55470129,bba2f0fd-61b9-44c9-913f-539995be1bb0,Immunotherapy Delivery Optimization,,3
+de13cd23-a141-4129-874f-060af859fdca,bba2f0fd-61b9-44c9-913f-539995be1bb0,Innovation in Non-Invasive Treatment Development,,4
+1189ff07-04cc-469f-af55-30fc34dc74bf,323fbbed-76a5-4236-be5c-8a730e2b37fd,Medical Devices,,0
+11c4175e-f339-44d7-86e6-589dc98df37e,323fbbed-76a5-4236-be5c-8a730e2b37fd,Writing,,1
+c298425e-f14d-4879-9148-3b0dbf15517e,323fbbed-76a5-4236-be5c-8a730e2b37fd,Biomedical Engineering,,2
+9c2c644b-7df1-4bae-afaa-df91fc492975,323fbbed-76a5-4236-be5c-8a730e2b37fd,Healthcare,,3
+4d1ad28b-f70c-4793-8610-43938acaf1a5,323fbbed-76a5-4236-be5c-8a730e2b37fd,Teaching,,4
+63605350-6828-4501-9086-cbf540f2be07,c2a51769-ff4e-41b3-a853-1177cbf076b8,Measurement and evaluation,,10
+e06ce621-6ee5-4320-b9e2-b509abb988b4,c2a51769-ff4e-41b3-a853-1177cbf076b8,Statistical Data Analysis,,11
+c0e08613-231f-4633-a62b-c32d62148ed6,c2a51769-ff4e-41b3-a853-1177cbf076b8,Community based reserach,,12
+8aa8ed81-cf7b-477e-a021-e86b563aeea6,c2a51769-ff4e-41b3-a853-1177cbf076b8,Project Management,,13
+10d4e802-fa26-465e-94e4-6b6c19db4a73,2fbf709e-7f3c-43b6-b7b8-e61155861101,Team Leadership,,10
+b594fd54-bfa6-4d87-a7f2-559b44f2bb79,2fbf709e-7f3c-43b6-b7b8-e61155861101,Business Development,,11
+8e9de0b0-275a-44fe-bfb1-6f8478e15dbd,2fbf709e-7f3c-43b6-b7b8-e61155861101,Data Science,,12
+f46efc74-0bb0-44c2-a4b8-bd08d1e80a72,2fbf709e-7f3c-43b6-b7b8-e61155861101,Project Management,,13
+3afa2121-bd73-4b3d-99f6-e72d54755574,2fbf709e-7f3c-43b6-b7b8-e61155861101,Software Development,,14

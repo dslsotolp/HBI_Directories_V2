@@ -791,6 +791,13 @@ else:
             else:
                 _community_cards = []
                 for _, community_member in _related_community.iterrows():
+                    _community_photo_path = community_member.get("photo_path", "")
+                    _community_photo_url = (
+                        f"/app/static/images/community/{_community_photo_path}"
+                        if _community_photo_path
+                        and pd.notna(_community_photo_path)
+                        else None
+                    )
                     _community_cards.append(
                         render_community_card_html(
                             name=(
@@ -815,6 +822,7 @@ else:
                             ),
                             tags=community_member.get("research_tags_list", []),
                             profile_id=str(community_member["profile_id"]),
+                            photo_url=_community_photo_url,
                         )
                     )
                 st.markdown(

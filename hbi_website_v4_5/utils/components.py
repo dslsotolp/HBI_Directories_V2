@@ -1,7 +1,11 @@
 """Shared UI components for the HBI Members website."""
 
+import base64
+from functools import lru_cache
 import hashlib
 import html as html_mod
+import mimetypes
+from pathlib import Path
 import re
 from urllib.parse import quote
 
@@ -793,6 +797,30 @@ def render_profile_background_html(
 
 # ── Avatar ───────────────────────────────────────────────────────────────────
 
+_APP_DIR = Path(__file__).resolve().parent.parent
+_STATIC_DIR = (_APP_DIR / "static").resolve()
+
+
+@lru_cache(maxsize=1024)
+def _portable_photo_source(photo_url: str) -> str:
+    """Embed app-local photos so they work without a cloud static-file route."""
+    prefix = "/app/static/"
+    if not photo_url.startswith(prefix):
+        return photo_url
+
+    relative_path = photo_url[len(prefix):].lstrip("/")
+    path = (_STATIC_DIR / relative_path).resolve()
+    try:
+        path.relative_to(_STATIC_DIR)
+    except ValueError:
+        return photo_url
+    if not path.is_file():
+        return photo_url
+
+    mime_type = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
+    encoded = base64.b64encode(path.read_bytes()).decode("ascii")
+    return f"data:{mime_type};base64,{encoded}"
+
 def render_avatar_html(name: str, size: int = 60, photo_url: str | None = None) -> str:
     """Render a 4:5 portrait avatar at 150% of the former avatar width."""
     initials = _esc(get_initials(name))
@@ -807,6 +835,7 @@ def render_avatar_html(name: str, size: int = 60, photo_url: str | None = None) 
         "display:inline-flex;align-items:center;justify-content:center;position:relative;"
     )
     if photo_url:
+        photo_source = _portable_photo_source(photo_url)
         # Layered: initials as background, photo overlaid; hide photo on error.
         return (
             f'<div class="hbi-avatar hbi-avatar-portrait" '
@@ -814,7 +843,7 @@ def render_avatar_html(name: str, size: int = 60, photo_url: str | None = None) 
             f'style="{frame_style}">'
             f'<div style="position:absolute;color:#fff;font-size:{fs}px;'
             f'font-weight:700;line-height:1;user-select:none;">{initials}</div>'
-            f'<img src="{photo_url}" '
+            f'<img src="{photo_source}" '
             f'style="position:absolute;width:100%;height:100%;object-fit:contain;'
             f'object-position:center center;background:#FFFFFF;z-index:1;" '
             f"onerror=\"this.style.display='none'\" "
